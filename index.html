@@ -25,7 +25,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mc
 
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v9',
+    style: 'mapbox://styles/mapbox/dark-v9',
     center: [13.902049,3.489016],
     zoom: 3
 });
@@ -43,7 +43,7 @@ map.on('load', function() {
                 "features": [{
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Pediatorkope</strong><p><a href=\"https://youtu.be/4hJvukHqcIs\" target=\"_blank\" title=\"Opens in a new window\">Renewable Island Microgrid</a> visit in 2017 by the IEEE Smart Village committee</p>",
+                        "description": "<div style=\"background-color:black;\"><strong style=\"background-color:black;color:white;>\">Pediatorkope</strong><p style=\"background-color:black;color:gray;\"><a style=\"color:yellow;\" href=\"https://youtu.be/4hJvukHqcIs\" target=\"_blank\" title=\"Opens in a new window\">Renewable Island Microgrid</a> visit in 2017 by the IEEE Smart Village committee</p></div>",
                         "icon": "theatre"
                     },
                     "geometry": {
@@ -145,7 +145,7 @@ map.on('load', function() {
         closeOnClick: false
     });
 
-    map.on('mouseenter', 'places', function(e) {
+    map.on('mouseover', 'places', function(e) {
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer';
 
@@ -156,7 +156,7 @@ map.on('load', function() {
             .addTo(map);
     });
 
-    map.on('mouseleave', 'places', function() {
+    map.on('click', function() {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
