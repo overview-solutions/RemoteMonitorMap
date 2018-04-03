@@ -13,6 +13,9 @@ This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Po
 The power line data is pulled from OSM using [this site](http://overpass-turbo.eu/), and then uploaded into [Mapbox](https://www.mapbox.com/) Studio as a set of tilesets.
 These tilesets are combined into the following Mapbox Style: mapbox://styles/earthadam/cjf0rz4yj6dj32sliavy2l0dg
 
+## Editing the Map
+In order to edit OSM data and add map features, use a client such as JOSM or iD. Once the data is sent back to the OSM database, revert to the Overpass API to re-download that section into Mapbox. Long-term, it was suggested to make a cron job to do this using the [overpass query](https://github.com/perliedman/query-overpass) on a daily basis or something like that.
+
 # Goals
 1. Integrate this into the [IEEE Smart Village](http://ieee-smart-village.org/) website.
 2. Add data visualizations like [these](http://kw4h.org/dashboard/db/filibaba?refresh=1m&orgId=2) for remote monitoring
