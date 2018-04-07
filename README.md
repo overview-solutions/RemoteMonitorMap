@@ -7,7 +7,7 @@ this is a map to showcase many of those projects, as well as track overall progr
 # Map Data
 Taking inspiration from the [Open Infrastructure Map](https://openinframap.org/#4/31.99/-40.91/Power-Telecoms), the goal of this map is to 
 feature up-to-date information on the existing infrastructure, as well as additional geolocated datasets on specific micro-grid sites.
-This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Power) data from OSM at the moment.
+This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Power) data from OSM at the moment. This data by itself doesn't show at full zoom level, so it needs to be run through [Tippecanoe](https://www.mapbox.com/help/adjust-tileset-zoom-extent/), and then loaded into Mapbox.
 
 # Mapping Tools
 The power line data is pulled from OSM using [this site](http://overpass-turbo.eu/), and then uploaded into [Mapbox](https://www.mapbox.com/) Studio as a set of tilesets.
