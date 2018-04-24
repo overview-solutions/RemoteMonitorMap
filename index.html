@@ -30,6 +30,8 @@ var map = new mapboxgl.Map({
     zoom: 3
 });
 
+var icon = "circle";
+
 map.on('load', function() {
 
     // Add a layer showing the places.
@@ -44,7 +46,7 @@ map.on('load', function() {
                     "type": "Feature",
                     "properties": {
                         "description": "<div style=\"background-color:black;\"><strong style=\"background-color:black;color:white;>\">Pediatorkope</strong><p style=\"background-color:black;color:gray;\"><a style=\"color:yellow;\" href=\"https://youtu.be/4hJvukHqcIs\" target=\"_blank\" title=\"Opens in a new window\">Renewable Island Microgrid</a> visit in 2017 by the IEEE Smart Village committee</p></div>",
-                        "icon": "theatre"
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -54,7 +56,7 @@ map.on('load', function() {
                     "type": "Feature",
                     "properties": {
                         "description": "<strong>GIMPA University</strong><p>IEEE Power Africa 2017 <a href=\"http://sites.ieee.org/powerafrica/\" target=\"_blank\" title=\"Opens in a new window\">IEEE Power Africa 2017</a> brings together energy practitioners from across Africa</p>",
-                        "icon": "theatre"
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -64,7 +66,7 @@ map.on('load', function() {
                     "type": "Feature",
                     "properties": {
                         "description": "<img src=\"http://chart.apis.google.com/chart?cht=p3&chd=t:48.78,51.21&chs=350x100&chl=Males(48.8%)|Females(51.2%)\"/><strong>Basic Chart Test</strong><p>Just testing a basic chart in the hover-over pop-up. <a href=\"plot.html\" target=\"_blank\" title=\"Opens in a new window\">Click Here</a> to follow for the rest of the chart.</p>",
-                        "icon": "bar"
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -74,7 +76,7 @@ map.on('load', function() {
                     "type": "Feature",
                     "properties": {
                         "description": "<strong>OSM Infrastructure Map</strong><p>The <a href=\"https://openinframap.org/#5/17.795/10.081/Power-Telecoms\" target=\"_blank\" title=\"Opens in a new window\">Open Infrastructure Map</a> uses the OSM protocol to map power and telecom projects around the world</p>",
-                        "icon": "art-gallery"
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -88,8 +90,8 @@ map.on('load', function() {
 				{
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Igniting Africa (IA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:360px;height:240px;\"/><br><strong>Igniting Africa (IA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -98,8 +100,8 @@ map.on('load', function() {
                 },{
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Renewable Energy Innovators (REIc)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:360px;height:240px;\"/><br><strong>Renewable Energy Innovators (REIc)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -108,8 +110,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Shakti Empowerment Solutions (SES)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Shakti Empowerment Solutions (SES)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -118,8 +120,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Solar Soul Collective (SSC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Solar Soul Collective (SSC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -128,8 +130,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -138,8 +140,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -148,8 +150,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -158,8 +160,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Shaybis Nigeria Ltd (SNL)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Shaybis Nigeria Ltd (SNL)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -168,8 +170,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Madan PNG Community Smart Village (CTC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Papua New Guinea</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Papua New Guinea.png\"style=\"width:360px;height:240px;\"/><br><strong>Madan PNG Community Smart Village (CTC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Papua New Guinea</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -178,8 +180,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Africa Development Promise (ADP)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Uganda</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Uganda.jpg\"style=\"width:360px;height:240px;\"/><br><strong>Africa Development Promise (ADP)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Uganda</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -188,8 +190,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Maasai Trust (MAA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Kenya</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Kenya.png\"style=\"width:360px;height:240px;\"/><br><strong>Maasai Trust (MAA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Kenya</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -198,8 +200,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Seva-Bharati (SBI)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Seva-Bharati (SBI)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
@@ -208,8 +210,8 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<strong>Bending Bamboo</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Vietnam</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
-                        "icon": "music"
+                        "description": "<img src=\"./Img/Vietnam.png\"style=\"width:360px;height:240px;\"/><br><strong>Bending Bamboo</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Vietnam</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
