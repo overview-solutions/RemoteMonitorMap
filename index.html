@@ -25,7 +25,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mc
 
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/earthadam/cjf0rz4yj6dj32sliavy2l0dg',
+    style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
+    //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
+    //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     center: [13.902049,3.489016],
     zoom: 3
 });
@@ -42,7 +44,9 @@ map.on('load', function() {
             "type": "geojson",
             "data": {
                 "type": "FeatureCollection",
-                "features": [{
+                "features": [
+				/*
+				{
                     "type": "Feature",
                     "properties": {
                         "description": "<div style=\"background-color:black;\"><strong style=\"background-color:black;color:white;>\">Pediatorkope</strong><p style=\"background-color:black;color:gray;\"><a style=\"color:yellow;\" href=\"https://youtu.be/4hJvukHqcIs\" target=\"_blank\" title=\"Opens in a new window\">Renewable Island Microgrid</a> visit in 2017 by the IEEE Smart Village committee</p></div>",
@@ -83,14 +87,64 @@ map.on('load', function() {
                         "coordinates": [1,711561, -28.882342]
                     }
                 }, 
-				
+				*/
 				
 				///ISV 2018 Project Briefs
 				
 				{
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:360px;height:240px;\"/><br><strong>Igniting Africa (IA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Namibia.png\"style=\"width:150px;height:100px;\"/><br><strong>Namibia Solar Pumps (NSP)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Namibia</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [17.080420,-22.571350]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Malawi.png\"style=\"width:150px;height:100px;\"/><br><strong>Community Energy Malawi (CEM)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Malawi</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [33.788443,-13.941863]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Nepal.png\"style=\"width:150px;height:100px;\"/><br><strong>Hydro Energy Concern (HEC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nepal</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [86.588646,27.972332]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Zambia.jpg\"style=\"width:150px;height:100px;\"/><br><strong>Lichi Community Solutions (LCS)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Zambia</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [26.324825,-12.394098]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Haiti.png\"style=\"width:150px;height:100px;\"/><br><strong>Sirona Cares Foundation (SCF)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Haiti</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [-72.298539,18.592366]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:150px;height:100px;\"/><br><strong>Igniting Africa (IA)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Cameroon</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -100,7 +154,17 @@ map.on('load', function() {
                 },{
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:360px;height:240px;\"/><br><strong>Renewable Energy Innovators (REIc)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Cameroon</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/South Sudan.png\"style=\"width:150px;height:100px;\"/><br><strong>Village Help for South Sudan (VHCC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">South Sudan</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [ 31.581993,4.843925]
+                    }
+                },{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:150px;height:100px;\"/><br><strong>Renewable Energy Innovators (REIc)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Cameroon</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -110,7 +174,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Shakti Empowerment Solutions (SES)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Shakti Empowerment Solutions (SES)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -120,7 +184,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Solar Soul Collective (SSC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Solar Soul Collective (SSC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -130,7 +194,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -140,7 +204,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -150,7 +214,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Negeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -160,7 +224,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Shaybis Nigeria Ltd (SNL)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Nigeria</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Shaybis Nigeria Ltd (SNL)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -170,7 +234,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Papua New Guinea.png\"style=\"width:360px;height:240px;\"/><br><strong>Madan PNG Community Smart Village (CTC)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Papua New Guinea</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Papua New Guinea.png\"style=\"width:150px;height:100px;\"/><br><strong>Madan PNG Community Smart Village (CTC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Papua New Guinea</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -180,7 +244,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Uganda.jpg\"style=\"width:360px;height:240px;\"/><br><strong>Africa Development Promise (ADP)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Uganda</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Uganda.jpg\"style=\"width:150px;height:100px;\"/><br><strong>Africa Development Promise (ADP)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Uganda</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -190,7 +254,7 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Kenya.png\"style=\"width:360px;height:240px;\"/><br><strong>Maasai Trust (MAA)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Kenya</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Kenya.png\"style=\"width:150px;height:100px;\"/><br><strong>Maasai Trust (MAA)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Kenya</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
@@ -200,17 +264,17 @@ map.on('load', function() {
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:360px;height:240px;\"/><br><strong>Seva-Bharati (SBI)</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">India</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Seva-Bharati (SBI)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [86.87346849999994,22.5226044]
+                        "coordinates": [86.87346849999994,22.5210044]
                     }
                 }, {
                     "type": "Feature",
                     "properties": {
-                        "description": "<img src=\"./Img/Vietnam.png\"style=\"width:360px;height:240px;\"/><br><strong>Bending Bamboo</strong><p><a href=\"http://www.truckeroodc.com/www/\" target=\"_blank\">Vietnam</a> brings dozens of food trucks, live music, and games to half and M Street SE (across from Navy Yard Metro Station) today from 11:00 a.m. to 11:00 p.m.</p>",
+                        "description": "<img src=\"./Img/Vietnam.png\"style=\"width:150px;height:100px;\"/><br><strong>Bending Bamboo</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Vietnam</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
                         "icon": icon
                     },
                     "geometry": {
