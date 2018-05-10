@@ -25,8 +25,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mc
 
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
-    //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
+    //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
+    style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
     //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     center: [13.902049,3.489016],
     zoom: 3
@@ -92,6 +92,16 @@ map.on('load', function() {
 				///ISV 2018 Project Briefs
 				
 				{
+                    "type": "Feature",
+                    "properties": {
+                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Global Humanitarian Experience (GHE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
+                        "icon": icon
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [77.576620,34.152067]
+                    }
+                },{
                     "type": "Feature",
                     "properties": {
                         "description": "<img src=\"./Img/Namibia.png\"style=\"width:150px;height:100px;\"/><br><strong>Namibia Solar Pumps (NSP)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Namibia</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
@@ -179,7 +189,7 @@ map.on('load', function() {
                     },
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [84.15527,27.64461]
+                        "coordinates": [84.074173,26.748125]
                     }
                 }, {
                     "type": "Feature",
