@@ -5,6 +5,7 @@
     <title>Remote Monitoring Map using Mapbox</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
     <style>
         body { margin:0; padding:0; }
@@ -26,8 +27,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mc
 var map = new mapboxgl.Map({
     container: 'map',
     //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
-    style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
-    //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
+    //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
+    style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     center: [13.902049,3.489016],
     zoom: 3
 });
@@ -35,8 +36,31 @@ var map = new mapboxgl.Map({
 var icon = "circle";
 
 map.on('load', function() {
-
+    map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
+    //map.addSource('projects', { type: 'geojson', data: 'https://github.com/OhioAdam/RemoteMonitorMap/blob/master/projects.geojson' });
     // Add a layer showing the places.
+    map.addLayer({
+        "id": "sites",
+        "type": "circle",
+        source: "projects",
+        'paint': {
+            // make circles larger as the user zooms from z12 to z22
+            'circle-radius': {
+                'base': 20,
+                'stops': [[12, 5], [22, 180]]
+            },
+            // color circles by ethnicity, using a match expression
+            // https://www.mapbox.com/mapbox-gl-js/style-spec/#expressions-match
+            'circle-color': [
+                'match',
+                ['get', 'Map Color'],
+                'G', '#00ff00',
+                'Y', '#ffff00',
+                /* other */ '#fff'
+            ]
+        }
+    });
+    /*
     map.addLayer({
         "id": "places",
         "type": "symbol",
@@ -90,7 +114,7 @@ map.on('load', function() {
 				*/
 				
 				///ISV 2018 Project Briefs
-				
+				/*
 				{
                     "type": "Feature",
                     "properties": {
@@ -299,21 +323,27 @@ map.on('load', function() {
             "icon-allow-overlap": true
         }
     });
-
+*/
     // Create a popup, but don't add it to the map yet.
     var popup = new mapboxgl.Popup({
         closeButton: false,
         closeOnClick: false
     });
 
-    map.on('mouseover', 'places', function(e) {
+    map.on('mouseover', 'sites', function(e) {
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer';
 
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(e.features[0].properties.description)
+            .setHTML(
+            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:150px;height:100px;\"/>"+
+            "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+            e.features[0].properties["Project Name"]+"<br>"+
+            "<b>2017/2018 Award: $</b>"+e.features[0].properties["2017\/2018 Award"]+"<br>"+
+            "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+            //.setHTML(e.features[0].properties.description)
             .addTo(map);
     });
 
@@ -321,6 +351,7 @@ map.on('load', function() {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
+    
 });
 </script>
 
