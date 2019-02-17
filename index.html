@@ -24,13 +24,19 @@
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mcXhhN3NscG4ifQ.5aXKquX7sLeQr6xFLdghFg';
 
+//Add commas and stuff to cost value
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
 var map = new mapboxgl.Map({
     container: 'map',
     //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
     //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
-    style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
+    //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
+    style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
     center: [13.902049,3.489016],
-    zoom: 3
+    zoom: 2
 });
 
 var icon = "circle";
@@ -60,270 +66,6 @@ map.on('load', function() {
             ]
         }
     });
-    /*
-    map.addLayer({
-        "id": "places",
-        "type": "symbol",
-        "source": {
-            "type": "geojson",
-            "data": {
-                "type": "FeatureCollection",
-                "features": [
-				/*
-				{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<div style=\"background-color:black;\"><strong style=\"background-color:black;color:white;>\">Pediatorkope</strong><p style=\"background-color:black;color:gray;\"><a style=\"color:yellow;\" href=\"https://youtu.be/4hJvukHqcIs\" target=\"_blank\" title=\"Opens in a new window\">Renewable Island Microgrid</a> visit in 2017 by the IEEE Smart Village committee</p></div>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [ 0.626320,5.815529]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<strong>GIMPA University</strong><p>IEEE Power Africa 2017 <a href=\"http://sites.ieee.org/powerafrica/\" target=\"_blank\" title=\"Opens in a new window\">IEEE Power Africa 2017</a> brings together energy practitioners from across Africa</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [ -0.200862,5.635751]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"http://chart.apis.google.com/chart?cht=p3&chd=t:48.78,51.21&chs=350x100&chl=Males(48.8%)|Females(51.2%)\"/><strong>Basic Chart Test</strong><p>Just testing a basic chart in the hover-over pop-up. <a href=\"plot.html\" target=\"_blank\" title=\"Opens in a new window\">Click Here</a> to follow for the rest of the chart.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [0.090372, 0.881189]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<strong>OSM Infrastructure Map</strong><p>The <a href=\"https://openinframap.org/#5/17.795/10.081/Power-Telecoms\" target=\"_blank\" title=\"Opens in a new window\">Open Infrastructure Map</a> uses the OSM protocol to map power and telecom projects around the world</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [1,711561, -28.882342]
-                    }
-                }, 
-				*/
-				
-				///ISV 2018 Project Briefs
-				/*
-				{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Global Humanitarian Experience (GHE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [77.576620,34.152067]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Namibia.png\"style=\"width:150px;height:100px;\"/><br><strong>Namibia Solar Pumps (NSP)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Namibia</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [17.080420,-22.571350]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Malawi.png\"style=\"width:150px;height:100px;\"/><br><strong>Community Energy Malawi (CEM)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Malawi</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [33.788443,-13.941863]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Nepal.png\"style=\"width:150px;height:100px;\"/><br><strong>Hydro Energy Concern (HEC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nepal</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [86.588646,27.972332]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Zambia.jpg\"style=\"width:150px;height:100px;\"/><br><strong>Lichi Community Solutions (LCS)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Zambia</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [26.324825,-12.394098]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Haiti.png\"style=\"width:150px;height:100px;\"/><br><strong>Sirona Cares Foundation (SCF)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Haiti</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [-72.298539,18.592366]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:150px;height:100px;\"/><br><strong>Igniting Africa (IA)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Cameroon</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [10.400546,6.403926]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/South Sudan.png\"style=\"width:150px;height:100px;\"/><br><strong>Village Help for South Sudan (VHCC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">South Sudan</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [ 31.581993,4.843925]
-                    }
-                },{
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Cameroon.png\"style=\"width:150px;height:100px;\"/><br><strong>Renewable Energy Innovators (REIc)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Cameroon</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [11.95982,6.22576]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Shakti Empowerment Solutions (SES)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [84.074173,26.748125]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Solar Soul Collective (SSC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [80.722778,28.544000]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [9.596389,8.943611]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [12.014167,10.142500]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Negeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Green Village Electricity (GVE)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [9.703889,8.778056]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Nigeria.png\"style=\"width:150px;height:100px;\"/><br><strong>Shaybis Nigeria Ltd (SNL)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Nigeria</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [4.94450628,8.66326173]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Papua New Guinea.png\"style=\"width:150px;height:100px;\"/><br><strong>Madan PNG Community Smart Village (CTC)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Papua New Guinea</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [144.404788,-5.810748]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Uganda.jpg\"style=\"width:150px;height:100px;\"/><br><strong>Africa Development Promise (ADP)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Uganda</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [32.4800,0.4000]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Kenya.png\"style=\"width:150px;height:100px;\"/><br><strong>Maasai Trust (MAA)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Kenya</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [35.2349,-1.3632]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/India.png\"style=\"width:150px;height:100px;\"/><br><strong>Seva-Bharati (SBI)</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">India</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [86.87346849999994,22.5210044]
-                    }
-                }, {
-                    "type": "Feature",
-                    "properties": {
-                        "description": "<img src=\"./Img/Vietnam.png\"style=\"width:150px;height:100px;\"/><br><strong>Bending Bamboo</strong><p><a href=\"http://ieee-smart-village.org/\" target=\"_blank\">Vietnam</a> Integrating sustainable electricity, education, and entrepreneurial solutions to empower off-grid communities.</p>",
-                        "icon": icon
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [105.722778,10.005472]
-                    }
-                }]
-            }
-        },
-        "layout": {
-            "icon-image": "{icon}-15",
-            "icon-allow-overlap": true
-        }
-    });
-*/
     // Create a popup, but don't add it to the map yet.
     var popup = new mapboxgl.Popup({
         closeButton: false,
@@ -341,7 +83,7 @@ map.on('load', function() {
             "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:150px;height:100px;\"/>"+
             "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
             e.features[0].properties["Project Name"]+"<br>"+
-            "<b>2017/2018 Award: $</b>"+e.features[0].properties["2017\/2018 Award"]+"<br>"+
+            "<b>2017/2018 Award: $</b>"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
             "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
             //.setHTML(e.features[0].properties.description)
             .addTo(map);
