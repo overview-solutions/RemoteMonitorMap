@@ -1,4 +1,4 @@
-# RemoteMonitorMap
+# Smart Village Map
 
 # Introduction
 As the IEEE Smart Village committee is tracking and supporting the advancement of several micro-grid projects across the African continent,
@@ -25,7 +25,3 @@ In order to edit OSM data and add map features, use a client such as JOSM or iD.
 3. Determine best methods for editing and adding new power lines into the OSM power layers ([iD?](http://ideditor.com/), [JOSM?](https://josm.openstreetmap.org/))
 4. Add telecom data as necessary
 5. Determine ways of highlighting areas of need (lack of infrastructure)
-
-# Useful links
-See this [Mapbox + OSM project](https://mapbox.gitbooks.io/open-data-openstreetmap/content/Case%20studies/seattle-automatization-of-updating-curb-situation-in-seattle.html) to map sidewalk accessibility in Seattle.
-A Smart City startup called [FOAM](https://www.foam.space/) in NYC using Mapbox in their stack, along with some other things that might be useful for data visualization
