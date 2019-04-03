@@ -31,10 +31,10 @@ function numberWithCommas(x) {
 
 var map = new mapboxgl.Map({
     container: 'map',
-    //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
+    style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
     //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
     //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
-    style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
+    //style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
     center: [13.902049,3.489016],
     zoom: 2
 });
@@ -43,7 +43,7 @@ var icon = "circle";
 
 map.on('load', function() {
     map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
-    //map.addSource('projects', { type: 'geojson', data: 'https://github.com/OhioAdam/RemoteMonitorMap/blob/master/projects.geojson' });
+    //map.addSource('projects', { type: 'geojson', data: 'https://github.com/OhioAdam/SmartVillageMap/blob/master/projects.geojson' });
     // Add a layer showing the places.
     map.addLayer({
         "id": "sites",
@@ -83,7 +83,7 @@ map.on('load', function() {
             "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:150px;height:100px;\"/>"+
             "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
             e.features[0].properties["Project Name"]+"<br>"+
-            "<b>2017/2018 Award: $</b>"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+            "<b>2017/2018 Award: $ 	"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
             "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
             //.setHTML(e.features[0].properties.description)
             .addTo(map);
