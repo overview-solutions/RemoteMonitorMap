@@ -16,7 +16,7 @@ The project sites are updated in a Google Sheets file, and then converted to geo
 ## Updating the Project Sites
 The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). Once the information in this file is updated, complete the following:
 
-1. Select Columns `A`-`K`
+1. Select Columns `A`-`P`, including the column headers, and every row you want to include on the map.
 1. Click on the `Geo` tab, and select **Organization Contracted** for the Unique ID, and then of course **Longitude** for the Longitude value, and **Latitude** for the Latitude value. 
 1. Download the resulting geoJson file, and rename it `projects.geojson`.
 1. Upload this `projects.geojson` file into this GitHub project, overwriting the existing `projects.geojson` file in the master branch (don't worry, we can always get it back).
