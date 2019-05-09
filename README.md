@@ -2,7 +2,9 @@
 
 # Introduction
 As the IEEE Smart Village committee is tracking and supporting the advancement of several micro-grid projects across the African continent,
-this is a map to showcase many of those projects, as well as track overall progress of energy and telecom access throughout the region.
+this is a map to showcase many of those projects, as well as track overall progress of energy access throughout the region.
+
+![](https://github.com/OhioAdam/RemoteMonitorMap/blob/master/Img/smart_village_map.png)
 
 # Map Data
 Taking inspiration from the [Open Infrastructure Map](https://openinframap.org/#4/31.99/-40.91/Power-Telecoms), the goal of this map is to 
