@@ -1,6 +1,6 @@
 # Smart Village Map
 
-# Introduction
+## Introduction
 As the IEEE Smart Village committee is tracking and supporting the advancement of several micro-grid projects across the African continent,
 this is a map to showcase many of those projects, as well as track overall progress of energy access throughout the region.
 
@@ -33,8 +33,8 @@ In order to edit OSM data and add map features, use a client such as JOSM or iD.
 
 # Goals
 1. Integrate this into the [IEEE Smart Village](http://ieee-smart-village.org/) website.
-2. Add data visualizations like [these](http://kw4h.org/dashboard/db/filibaba?refresh=1m&orgId=2) for remote monitoring
- - Considering the use of [D3.js](https://d3js.org/) instead of [Grafana](https://grafana.com/) (used in kw4h Dashboard).
+2. Add data visualizations like [these](http://kw4h.org/dashboard/db/filibaba?refresh=1m&orgId=2) for remote monitoring 
+    1. Considering the use of [D3.js](https://d3js.org/) instead of [Grafana](https://grafana.com/) (used in kw4h Dashboard).
 3. Determine best methods for editing and adding new power lines into the OSM power layers ([iD?](http://ideditor.com/), [JOSM?](https://josm.openstreetmap.org/))
 4. Add telecom data as necessary
 5. Determine ways of highlighting areas of need (lack of infrastructure)
