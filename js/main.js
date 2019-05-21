@@ -7,8 +7,8 @@ function numberWithCommas(x) {
 
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
-    //style: 'mapbox://styles/earthadam/cjggwuqty000n2rltfwjtdfik',	//Presentation
+    //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
+    style: 'mapbox://styles/earthadam/cjvy2c2de10i61dmqllzow46i',	//Presentation
     //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     //style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
     center: [13.902049,3.489016],
