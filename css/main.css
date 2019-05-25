@@ -68,3 +68,6 @@ body {
     height: 10px;
     margin-right: 5px;
   }
+  .mapboxgl-popup {
+    max-width: 300px;
+  }

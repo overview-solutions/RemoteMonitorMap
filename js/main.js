@@ -54,6 +54,7 @@ map.on('load', function() {
                 ['get', 'Map Color'],
                 'G', '#00ff00',
                 'Y', '#ffff00',
+                'B', '#39DFff',
                 /* other */ '#fff'
             ],
             'circle-stroke-color': [
@@ -61,6 +62,7 @@ map.on('load', function() {
                 ['get', 'Map Color'],
                 'G', '#004400',
                 'Y', '#444400',
+                'B', '#00497A',
                 /* other */ '#444'
             ],
             'circle-stroke-width':1
@@ -80,7 +82,7 @@ map.on('load', function() {
         // based on the feature found.
         popup.setLngLat(e.features[0].geometry.coordinates)
             .setHTML(
-            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:150px;height:100px;\"/>"+
+            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
             "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
             e.features[0].properties["Project Name"]+"<br>"+
             "<b>2017/2018 Award: $ 	"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
