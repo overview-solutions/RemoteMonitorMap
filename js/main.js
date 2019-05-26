@@ -90,6 +90,22 @@ map.on('load', function() {
             //.setHTML(e.features[0].properties.description)
             .addTo(map);
     });
+    map.on('click', 'sites', function(e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+
+        // Populate the popup and set its coordinates
+        // based on the feature found.
+        popup.setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(
+            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
+            "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+            e.features[0].properties["Project Name"]+"<br>"+
+            "<b>2017/2018 Award: $ 	"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+            "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+            //.setHTML(e.features[0].properties.description)
+            .addTo(map);
+    });
 
     map.on('click', function() {
         map.getCanvas().style.cursor = '';
