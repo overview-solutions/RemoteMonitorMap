@@ -18,8 +18,8 @@ var map = new mapboxgl.Map({
 var icon = "circle";
 
 map.on('load', function() {
-    var layers = ['Active', 'Not Active'];
-    var colors = ['#00FF00', '#FFFF00'];
+    var layers = ['Retired','Active', 'Future'];
+    var colors = ['#39DFff','#00FF00', '#FFFF00'];
     for (i = 0; i < layers.length; i++) {
         var layer = layers[i];
         var color = colors[i];

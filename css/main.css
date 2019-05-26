@@ -37,7 +37,10 @@ body {
     position: absolute;
     bottom: 0;
     left: 10px;
-    background: rgba(200, 200, 200, 0.6);
+    background: rgba(0,0,0, 0.6);
+    text-emphasis-color: #fff;
+    
+  -webkit-text-fill-color: #fff;
     margin-right: 20px;
     font-family: Arial, sans-serif;
     overflow: auto;
@@ -56,7 +59,7 @@ body {
     padding: 10px;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
     line-height: 18px;
-    height: 40px;
+    height: 55px;
     margin-bottom: 40px;
     width: 100px;
   }
@@ -70,4 +73,10 @@ body {
   }
   .mapboxgl-popup {
     max-width: 300px;
+  }
+  a:link{
+    color:rgb(0, 204, 255);
+  }
+  a:visited{
+    color:rgb(0, 204, 255);
   }
