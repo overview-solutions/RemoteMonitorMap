@@ -91,6 +91,7 @@ map.on('load', function() {
             .addTo(map);
     });
     map.on('click', 'sites', function(e) {
+        el.className = 'marker';
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer';
 
