@@ -34,8 +34,8 @@ map.on('load', function() {
         item.appendChild(value);
         legend.appendChild(item);
       }
-    map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
-    //map.addSource('projects', { type: 'geojson', data: 'https://github.com/OhioAdam/RemoteMonitorMap/blob/master/projects.geojson' });
+    //map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
+    map.addSource('projects', { type: 'geojson', data: 'https://raw.githubusercontent.com/overview-solutions/RemoteMonitorMap/master/projects.geojson' });
     // Add a layer showing the places.
     map.addLayer({
         "id": "sites",
