@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNpenJpcTFkbjAwODUyd21mcXhhN3NscG4ifQ.5aXKquX7sLeQr6xFLdghFg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZWFydGhhZGFtIiwiYSI6ImNqd3Y3amlwczBnMzc0YW4xc2x1NWVuNGoifQ.jQvOGeLkupgLxp31-Oa6gw';
 
 //Add commas and stuff to cost value
 function numberWithCommas(x) {
