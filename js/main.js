@@ -7,8 +7,9 @@ function numberWithCommas(x) {
 
 var map = new mapboxgl.Map({
     container: 'map',
+    style: 'mapbox://styles/earthadam/cjvy2aoum109m1ct7j4cce74d',
     //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
-    style: 'mapbox://styles/earthadam/cjvy2c2de10i61dmqllzow46i',	//Presentation
+    //style: 'mapbox://styles/earthadam/cjvy2c2de10i61dmqllzow46i',	//Presentation
     //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     //style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
     center: [13.902049,3.489016],
@@ -85,7 +86,8 @@ map.on('load', function() {
             "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
             "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
             e.features[0].properties["Project Name"]+"<br>"+
-            "<b>2017/2018 Award: $ 	"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+            "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
+            "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
             "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
             //.setHTML(e.features[0].properties.description)
             .addTo(map);
@@ -102,7 +104,8 @@ map.on('load', function() {
             "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
             "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
             e.features[0].properties["Project Name"]+"<br>"+
-            "<b>2017/2018 Award: $ 	"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+            "<b>Country:</b>"+e.features[0].properties["Country"]+"<br>"+
+            "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
             "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
             //.setHTML(e.features[0].properties.description)
             .addTo(map);
