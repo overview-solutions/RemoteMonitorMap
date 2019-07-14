@@ -81,16 +81,31 @@ map.on('load', function() {
 
         // Populate the popup and set its coordinates
         // based on the feature found.
-        popup.setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(
-            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
-            "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-            e.features[0].properties["Project Name"]+"<br>"+
-            "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-            "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
-            "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-            //.setHTML(e.features[0].properties.description)
-            .addTo(map);
+        if(e.features[0].properties["Link"]!=""){
+            popup.setLngLat(e.features[0].geometry.coordinates)
+                .setHTML(
+                "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
+                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "More Info" + '</a></h3>'+
+                e.features[0].properties["Project Name"]+"<br>"+
+                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
+                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+                //.setHTML(e.features[0].properties.description)
+                .addTo(map);
+        }else{
+            popup.setLngLat(e.features[0].geometry.coordinates)
+                .setHTML(
+                "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
+                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+                e.features[0].properties["Project Name"]+"<br>"+
+                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
+                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+                //.setHTML(e.features[0].properties.description)
+                .addTo(map);
+        }
+        
     });
     map.on('click', 'sites', function(e) {
         el.className = 'marker';
@@ -99,16 +114,30 @@ map.on('load', function() {
 
         // Populate the popup and set its coordinates
         // based on the feature found.
-        popup.setLngLat(e.features[0].geometry.coordinates)
-            .setHTML(
-            "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
-            "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-            e.features[0].properties["Project Name"]+"<br>"+
-            "<b>Country:</b>"+e.features[0].properties["Country"]+"<br>"+
-            "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
-            "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-            //.setHTML(e.features[0].properties.description)
-            .addTo(map);
+        if(e.features[0].properties["Link"]!=""){
+            popup.setLngLat(e.features[0].geometry.coordinates)
+                .setHTML(
+                "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
+                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "More Info" + '</a></h3>'+
+                e.features[0].properties["Project Name"]+"<br>"+
+                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
+                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+                //.setHTML(e.features[0].properties.description)
+                .addTo(map);
+        }else{
+            popup.setLngLat(e.features[0].geometry.coordinates)
+                .setHTML(
+                "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
+                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
+                e.features[0].properties["Project Name"]+"<br>"+
+                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
+                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
+                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
+                //.setHTML(e.features[0].properties.description)
+                .addTo(map);
+        }
     });
 
     map.on('click', function() {
