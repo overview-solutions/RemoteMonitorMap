@@ -86,7 +86,7 @@ map.on('load', function() {
                 .setHTML(
                 "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "More Info" + '</a></h3>'+
+                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
                 "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
@@ -119,7 +119,7 @@ map.on('load', function() {
                 .setHTML(
                 "<img src=\"./Img/"+e.features[0].properties["Country"]+".png\"style=\"width:100px;height:67px;\"/>"+
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "More Info" + '</a></h3>'+
+                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
                 "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
