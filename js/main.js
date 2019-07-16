@@ -89,7 +89,6 @@ map.on('load', function() {
                 '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
                 "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
                 //.setHTML(e.features[0].properties.description)
                 .addTo(map);
@@ -100,7 +99,6 @@ map.on('load', function() {
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
                 "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
                 //.setHTML(e.features[0].properties.description)
                 .addTo(map);
@@ -122,7 +120,6 @@ map.on('load', function() {
                 '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
                 "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
                 //.setHTML(e.features[0].properties.description)
                 .addTo(map);
@@ -133,7 +130,6 @@ map.on('load', function() {
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>2017/2018 Award:</b> $"+numberWithCommas(e.features[0].properties["2017\/2018 Award"])+"<br>"+
                 "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
                 //.setHTML(e.features[0].properties.description)
                 .addTo(map);
