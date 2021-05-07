@@ -48,7 +48,7 @@ map.on('load', function() {
                 'base': 20,
                 'stops': [[12, 5], [22, 180]]
             },
-            // color circles by ethnicity, using a match expression
+            // color circles by project status, using a match expression
             // https://www.mapbox.com/mapbox-gl-js/style-spec/#expressions-match
             'circle-color': [
                 'match',
