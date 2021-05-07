@@ -102,7 +102,7 @@ map.on('load', function() {
         if(e.features[0].properties["Link"]!=""){
             popup.setLngLat(e.features[0].geometry.coordinates)
                 .setHTML(
-                "<img src=\"http://smartvillage.ieee.org/wp-content/uploads/flags/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
+                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
@@ -113,7 +113,7 @@ map.on('load', function() {
         }else{
             popup.setLngLat(e.features[0].geometry.coordinates)
                 .setHTML(
-                "<img src=\"http://smartvillage.ieee.org/wp-content/uploads/flags/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
+                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
@@ -133,7 +133,7 @@ map.on('load', function() {
         if(e.features[0].properties["Link"]!=""){
             popup.setLngLat(e.features[0].geometry.coordinates)
                 .setHTML(
-                "<img src=\"http://smartvillage.ieee.org/wp-content/uploads/flags/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
+                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
                 e.features[0].properties["Project Name"]+"<br>"+
@@ -144,7 +144,7 @@ map.on('load', function() {
         }else{
             popup.setLngLat(e.features[0].geometry.coordinates)
                 .setHTML(
-                "<img src=\"http://smartvillage.ieee.org/wp-content/uploads/flags/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
+                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
                 "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
                 e.features[0].properties["Project Name"]+"<br>"+
                 "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
