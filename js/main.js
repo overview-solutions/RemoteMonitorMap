@@ -36,7 +36,7 @@ map.on('load', function() {
         legend.appendChild(item);
       }
     //map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
-    map.addSource('projects', { type: 'geojson', data: 'https://raw.githubusercontent.com/overview-solutions/RemoteMonitorMap/master/projects.geojson' });
+    map.addSource('projects', { type: 'geojson', data: 'https://raw.githubusercontent.com/overview-solutions/RemoteMonitorMap/project-updates/projects.geojson' });
     // Add a layer showing the places.
     map.addLayer({
         "id": "sites",
@@ -65,6 +65,24 @@ map.on('load', function() {
                 'Y', '#444400',
                 'B', '#00497A',
                 /* other */ '#444'
+            ],
+            'circle-opacity':[
+                'match',
+                ['get', 'Map Color'],
+                'G', 1,
+                'Y', 1,
+                'B', 1,
+                'D', 0,
+                /* other */ 1
+            ],
+            'circle-stroke-opacity':[
+                'match',
+                ['get', 'Map Color'],
+                'G', 1,
+                'Y', 1,
+                'B', 1,
+                'D', 0,
+                /* other */ 1
             ],
             'circle-stroke-width':1
         }
