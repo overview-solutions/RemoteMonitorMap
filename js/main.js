@@ -36,7 +36,7 @@ map.on('load', function() {
         legend.appendChild(item);
       }
     //map.addSource('projects', { type: 'geojson', data: 'projects.geojson' });
-    map.addSource('projects', { type: 'geojson', data: 'https://raw.githubusercontent.com/overview-solutions/RemoteMonitorMap/41c9dfcd3e8daf763ef15e84b39dbbbf1e861c8b/projects.geojson' });
+    map.addSource('projects', { type: 'geojson', data: 'https://raw.githubusercontent.com/overview-solutions/RemoteMonitorMap/master/projects.geojson' });
     // Add a layer showing the places.
     map.addLayer({
         "id": "sites",
