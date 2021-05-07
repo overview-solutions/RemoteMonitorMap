@@ -4,21 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Africa Development Promise (ADP)",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Social and Economic Development through Solar Energy Kiosks to Enable Productive Use and Home Lighting in Five Villages in the Wakiso District of Uganda",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.africadevelopmentpromise.org/",
+        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
         "Location": "Uganda",
         "Years Active": "2015-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$250,000 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Uganda",
-        "Villages": "Kiwenda Village, Kiwenda Parish, Bukusuma Sub-County - Wakiso Districe",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Kiwenda Village, Kiwenda Parish, Bukusuma Sub-County - Wakiso Districe"
       },
       "geometry": {
         "type": "Point",
@@ -31,21 +29,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Africa Development Promise (ADP)",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Social and Economic Development through Solar Energy Kiosks to Enable Productive Use and Home Lighting in Five Villages in the Wakiso District of Uganda",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
+        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
         "Location": "Uganda",
         "Years Active": "2015-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
-        "Tranche Payments Started": "Paid",
-        "Continent": "",
-        "Country": "",
-        "Villages": "Kabubbu A Village, Kabubbu Parish, Nangabo Sub-County - Wakiso District",
-        "Leader": "",
-        "Technology": ""
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/3)",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Uganda",
+        "City/Village": "Kabubbu A Village, Kabubbu Parish, Nangabo Sub-County - Wakiso District"
       },
       "geometry": {
         "type": "Point",
@@ -58,21 +54,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Africa Development Promise (ADP)",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Social and Economic Development through Solar Energy Kiosks to Enable Productive Use and Home Lighting in Five Villages in the Wakiso District of Uganda",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
+        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
         "Location": "Uganda",
         "Years Active": "2015-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
-        "Tranche Payments Started": "Paid",
-        "Continent": "",
-        "Country": "",
-        "Villages": "Kiwale Village, Gayaza Parish, Nangabo Sub-County - Wakiso District",
-        "Leader": "",
-        "Technology": ""
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/3)",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Uganda",
+        "City/Village": "Kiwale Village, Gayaza Parish, Nangabo Sub-County - Wakiso District"
       },
       "geometry": {
         "type": "Point",
@@ -86,20 +80,18 @@
       "type": "Feature",
       "properties": {
         "Organization Contracted": "Agri Invest Cameroon (AGC)",
-        "Link": "",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "http://www.agriinvestgroup.org/index",
         "Project Name": "Cameroon - North Solaris Program",
         "Acronym": "AGC",
         "Location": "Cameroon",
         "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
+        "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017/2018 Award": "$200,000 ",
+        "2017-2020+ Award": "",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Gobo",
-        "Leader": "Narcisse GUYBOLO Parfait",
-        "Technology": ""
+        "City/Village": "Gobo"
       },
       "geometry": {
         "type": "Point",
@@ -112,48 +104,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Avri Trust (AVRI)",
-        "Link": "",
-        "Project Name": "Lighting Up Sirumalai Hills Project",
-        "Acronym": "AVRI",
-        "Location": "India",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$25,000 ",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Asia",
-        "Country": "India",
-        "Villages": "Sirumalai, Tamil Nadu",
-        "Leader": "",
-        "Technology": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.988276,
-          10.208412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization Contracted": "Beyond Chacay Foundation (BCF)",
-        "Link": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
+        "Organization Contracted": "Beyond Chacay Foundation (BCF) PA 022-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
         "Project Name": "Smart Destination Galapagos",
         "Acronym": "BCF",
-        "Location": "Ecuador",
+        "Location": "Galapagos",
         "Years Active": "2018-Present",
-        "Active/Retired/Pending": "A",
+        "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017/2018 Award": "$25,000 ",
-        "Tranche Payments Started": "In Progress",
+        "2017-2020+ Award": "$25,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "South America",
         "Country": "Ecuador",
-        "Villages": "Puerto Baquerizo Moreno, San Cristobal, Galapagos",
-        "Leader": "David Lansdale",
-        "Technology": ""
+        "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos"
       },
       "geometry": {
         "type": "Point",
@@ -166,27 +129,50 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Community Energy Malawi (CEM)",
-        "Link": "",
+        "Organization Contracted": "Beyond Chacay Foundation (BCF) SV 051-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
+        "Project Name": "Build Local Capacity in Renewable Energy and Entrepreneurship.",
+        "Acronym": "BCF",
+        "Location": "Galapagos",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "P",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$25,000 ",
+        "Tranche Payments Started": "Pending",
+        "Continent": "South America",
+        "Country": "Ecuador",
+        "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.537984,
+          -0.130591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Community Energy Malawi (CEM) PA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.communityenergymalawi.org/",
         "Project Name": "SunBlazer for Agrucultual Pumping",
         "Acronym": "CEM",
         "Location": "Malawi",
-        "Years Active": "2015-2018",
-        "Active/Retired/Pending": "R",
+        "Years Active": "2015-Present",
+        "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017/2018 Award": "$25,000 ",
-        "Tranche Payments Started": "Paid",
+        "2017-2020+ Award": "$25,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Malawi",
-        "Villages": "",
-        "Leader": "Edgar Bayani",
-        "Technology": ""
+        "City/Village": "Mtalimanja Village"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.788443,
-          -13.941863
+          34.2699,
+          -13.5762
         ]
       }
     },
@@ -194,74 +180,43 @@
       "type": "Feature",
       "properties": {
         "Organization Contracted": "Center for Social Action (CSA)",
-        "Link": "",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://csamumbai.in/",
         "Project Name": "Degaon Development Project",
         "Acronym": "CSA",
         "Location": "India",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$25,000 ",
-        "Tranche Payments Started": "Pending",
+        "Years Active": "2019-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$25,000 ",
+        "Tranche Payments Started": "In Progress",
         "Continent": "Asia",
         "Country": "India",
-        "Villages": "Degaon Village - District of Raigad, Maharashtra",
-        "Leader": "Fr. Mario Mendes",
-        "Technology": ""
+        "City/Village": "Degaon Village - District of Raigad, Maharashtra"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.2618,
-          18.1984
+          73.2972,
+          17.6394
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Center for Social Action (CSA)",
-        "Link": "",
-        "Project Name": "Aveti Development Project",
-        "Acronym": "CSA",
-        "Location": "India",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$25,000 ",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Asia",
-        "Country": "India",
-        "Villages": "Aveti Village - District of Raigad, Maharashtra",
-        "Leader": "",
-        "Technology": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.443802,
-          18.237405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization Contracted": "Darway Coast Nigeria (DCN)",
-        "Link": "",
-        "Project Name": "27.6kWp Minigrid in Ozuzu Community and 7kWp Minigrid in Akpoku Community, Nigeria",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
         "Location": "Nigeria",
         "Years Active": "2019-Present",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$15,500 ",
-        "Tranche Payments Started": "In Progress",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$15,500(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "Ozuzu, Rivers State",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Ozuzu, Rivers State"
       },
       "geometry": {
         "type": "Point",
@@ -274,21 +229,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Darway Coast Nigeria (DCN)",
-        "Link": "",
-        "Project Name": "27.6kWp Minigrid in Ozuzu Community and 7kWp Minigrid in Akpoku Community, Nigeria",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
-        "Location": "",
+        "Location": "Nigeria",
         "Years Active": "2019-Present",
-        "Active/Retired/Pending": "",
-        "Map Color": "Y",
-        "2017/2018 Award": "",
-        "Tranche Payments Started": "In Progress",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$15,500(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "Akpoku, Rivers State",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Akpoku, Rivers State"
       },
       "geometry": {
         "type": "Point",
@@ -301,21 +254,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Darway Coast Nigeria (DCN)",
-        "Link": "",
-        "Project Name": "27.6kWp Minigrid in Ozuzu Community and 7kWp Minigrid in Akpoku Community, Nigeria",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
-        "Location": "",
+        "Location": "Nigeria",
         "Years Active": "2019-Present",
-        "Active/Retired/Pending": "",
-        "Map Color": "Y",
-        "2017/2018 Award": "",
-        "Tranche Payments Started": "In Progress",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$15,500(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "Coker, Lagos State",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Coker, Lagos State"
       },
       "geometry": {
         "type": "Point",
@@ -328,102 +279,294 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Association des Ressortissants de Gonga (EDG)",
-        "Link": "",
-        "Project Name": "Electricite de Gonga",
-        "Acronym": "EDG",
-        "Location": "Burkina Faso",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$38,050 ",
-        "Tranche Payments Started": "Pending",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Empowering Communities in Etche and Umunneoche",
+        "Acronym": "DCN",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$50,000(/5)",
+        "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
-        "Country": "Burkina Faso",
-        "Villages": "",
-        "Leader": "Alain Riaud",
-        "Technology": ""
+        "Country": "Nigeria",
+        "City/Village": "Orwu"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.728394,
-          13.344656
+          6.998482,
+          5.216787
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Foundation for Charitable Activities (FCA)",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Bangladesh",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$200,000 ",
-        "Tranche Payments Started": "Pending",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Empowering Communities in Etche and Umunneoche",
+        "Acronym": "DCN",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$50,000(/5)",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Umuoye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.040599,
+          5.233195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Empowering Communities in Etche and Umunneoche",
+        "Acronym": "DCN",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$50,000(/5)",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Ojia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.014724,
+          5.145179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Empowering Communities in Etche and Umunneoche",
+        "Acronym": "DCN",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$50,000(/5)",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Umuekwunne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.047818,
+          5.15581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.darwaycoast.com/",
+        "Project Name": "Empowering Communities in Etche and Umunneoche",
+        "Acronym": "DCN",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$50,000(/5)",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Lokpaukwu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.427955,
+          5.92787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Future Generations University (FGU) PA 034-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.future.edu/",
+        "Project Name": "Bending Bamboo � ON Semiconductor Teacher Scholarships",
+        "Acronym": "FGU",
+        "Location": "Vietnam",
+        "Years Active": "2020-2021",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$80,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
-        "Country": "Bangladesh",
-        "Villages": "",
-        "Leader": "",
-        "Technology": ""
+        "Country": "Vietnam",
+        "City/Village": "Mekong Delta"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.197846,
-          23.794551
+          105.594339,
+          10.063363
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Global Himilayan Expedition (GHE)",
-        "Link": "https://smartvillage.ieee.org/project/global-himalayan-expedition-ghe/",
-        "Project Name": "Elecrrification of Remote Himalayan Villages",
+        "Organization Contracted": "Global Himilayan Expedition (GHE) GA 10-2015",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Electrification of Remote Himalayan Village - Phugtal Monastery",
         "Acronym": "GHE",
         "Location": "India",
         "Years Active": "2015-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$100,000 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$35,752 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
-        "Villages": "Himalayas",
-        "Leader": "Paras Loomba",
-        "Technology": "Microgrids, Satellite Internet, Eco Tourism"
+        "City/Village": "Phugtal"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.819444,
-          33.903056
+          77.183,
+          22.2663
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Green Village Electricity (GVE) - 1",
-        "Link": "https://smartvillage.ieee.org/project/green-village-electricity-nigeria/",
-        "Project Name": "Green Village Electricity Project Expansion Phase (I); Providing Electricity Clean Access to 6,300 Households in 11 Rural Off-Grid Communities in Nigeria",
+        "Organization Contracted": "Global Himilayan Expedition (GHE) FA 01-2016",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Eletrification of Remote Himalayan Village - Lingshed Monastery",
+        "Acronym": "GHE",
+        "Location": "India",
+        "Years Active": "2016-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$65,535 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Lingshed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8287,
+          33.9074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Global Himilayan Expedition (GHE) PA-23-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Survey of ISV Electrified Villages",
+        "Acronym": "GHE",
+        "Location": "India",
+        "Years Active": "2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$6,400 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Lingshed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8287,
+          33.9074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Green Village Electricity (GVE) SOW 002",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Battery Kit Village Deployment",
+        "Acronym": "GHE",
+        "Location": "Nigeria",
+        "Years Active": "2012",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$16,666 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Etche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0498,
+          5.0632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Green Village Electricity (GVE) GA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Three 24KW Microutilitie",
+        "Acronym": "GVE",
+        "Location": "Nigeria",
+        "Years Active": "2015-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$65,353 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Niger State"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5983,
+          9.9309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Green Village Electricity (GVE) - 1 PA 001-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.ghe.co.in/",
+        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
         "Location": "Nigeria",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$210,000 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$210,000(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "Bisanti",
-        "Leader": "Ifeanyi Orajaka",
-        "Technology": "Microgrid, Computers, DC Appliances"
+        "City/Village": "Anambra"
       },
       "geometry": {
         "type": "Point",
@@ -436,21 +579,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Green Village Electricity (GVE) - 2",
-        "Link": "https://smartvillage.ieee.org/project/green-village-electricity-nigeria/",
-        "Project Name": "Green Village Electricity Project Expansion Phase (I); Providing Electricity Clean Access to 6,300 Households in 11 Rural Off-Grid Communities in Nigeria",
+        "Organization Contracted": "Green Village Electricity (GVE) - 2 PA 001-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://gve-group.com/",
+        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
         "Location": "Nigeria",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$210,000 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$210,000(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Gombe"
       },
       "geometry": {
         "type": "Point",
@@ -463,21 +604,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Green Village Electricity (GVE) - 3",
-        "Link": "https://smartvillage.ieee.org/project/green-village-electricity-nigeria/",
-        "Project Name": "Green Village Electricity Project Expansion Phase (I); Providing Electricity Clean Access to 6,300 Households in 11 Rural Off-Grid Communities in Nigeria",
+        "Organization Contracted": "Green Village Electricity (GVE) - 3 PA 001-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://gve-group.com/",
+        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
         "Location": "Nigeria",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$210,000 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$210,000(/3)",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Akwa Ibom"
       },
       "geometry": {
         "type": "Point",
@@ -490,48 +629,94 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Jacana Business Empowerment (JBE)",
-        "Link": "",
-        "Project Name": "Jacana Rural Power Project",
-        "Acronym": "JBE",
-        "Location": "Zambia",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
+        "Organization Contracted": "Grid Alternatives (GRA) MOU 2020",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://gridalternatives.org/what-we-do/tribal-program",
+        "Project Name": "Solar Demonstration Project - American Tribal Communities",
+        "Acronym": "GRA",
+        "Location": "USA",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017/2018 Award": "$25,000 ",
+        "2017-2020+ Award": "$44,200 ",
         "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "Villages": "Chipata",
-        "Leader": "Dinie Nijssen",
-        "Technology": ""
+        "Continent": "North America",
+        "Country": "USA",
+        "City/Village": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.65,
-          -13.63333
+          -104.9903,
+          39.73292
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Lichi Community Solutions (LCS)",
-        "Link": "",
-        "Project Name": "Sustainable Energy Kiosk for Rural Development",
+        "Organization Contracted": "Honduras IEEE Section (HIS) MOU 050-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://r9.ieee.org/",
+        "Project Name": "Women Empowerment Solar Energy Project",
+        "Acronym": "HIS",
+        "Location": "Honduras",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$13,500 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Latin America",
+        "Country": "Honduras",
+        "City/Village": "Tegucigalpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Indian Institute of Technology Mandi (IITM) SV045-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.iitmandi.ac.in/",
+        "Project Name": "Three Wheeler Battery Swap and Public Charging Test",
+        "Acronym": "IITM",
+        "Location": "India",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$24,960 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Mandi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9861,
+          31.7754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Lichi Community Solutions (LCS) PA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://lightupzambia.org/",
+        "Project Name": "Sustainable Energy Kiosk for Rural Development - Filibaba",
         "Acronym": "LCS",
         "Location": "Zambia",
         "Years Active": "2014-2016",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$24,650 ",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$24,650 ",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Zambia",
-        "Villages": "Filibaba Zone in Ipafu, Chingola Zambia",
-        "Leader": "Steve Szablya",
-        "Technology": "Microgrids, Solar Irrigation,"
+        "City/Village": "Filibaba Zone in Ipafu, Chingola Zambia"
       },
       "geometry": {
         "type": "Point",
@@ -544,21 +729,44 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "The Maai Trust (MAA)",
-        "Link": "https://smartvillage.ieee.org/project/the-maa-trust-kenya/",
-        "Project Name": "Maasai Youth Empowerment",
-        "Acronym": "MAA",
-        "Location": "Kenya",
-        "Years Active": "2017-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$200,000 ",
+        "Organization Contracted": "Lichi Community Solutions (LCS) PA Pending",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://lightupzambia.org/",
+        "Project Name": "Zambia-Mayukwayukwa Reliable Solar Energy for Refugeee Camp",
+        "Acronym": "LCS",
+        "Location": "Zambia",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "P",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$200,000 ",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
+        "Country": "Zambia",
+        "City/Village": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.193679,
+          -14.553622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) PA 10A-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Maasai Youth Empowerment Phase 1",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2017-2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$60,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
         "Country": "Kenya",
-        "Villages": "Masaai Mara",
-        "Leader": "Crystal Cortney",
-        "Technology": "Microgrid, Computers, Tablets, Microwave, Micro-factory, Brick Making, Bead Making,"
+        "City/Village": "Masaai Mara"
       },
       "geometry": {
         "type": "Point",
@@ -571,27 +779,200 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Mural Net (MNAZ)",
-        "Link": "",
-        "Project Name": "Broadband to underserved on tribal lands",
-        "Acronym": "MNAZ",
-        "Location": "USA",
-        "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
-        "Map Color": "Y",
-        "2017/2018 Award": "$100,000 ",
-        "Tranche Payments Started": "Pending",
-        "Continent": "North America",
-        "Country": "USA",
-        "Villages": "",
-        "Leader": "Mariel Triggs",
-        "Technology": ""
+        "Organization Contracted": "The Maa Trust (MAA) PA 10B-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Maasai Youth Empowerment Phase 2",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2017-2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$140,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.688603,
-          36.235058
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) PA 014-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Maasai Vocational Training",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2017-2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$50,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 033-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Africa Grants Working Group Lead",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2019-2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$12,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 037-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "M&E Strategy Project",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$23,694 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 038-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Education & Skills Development",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$15,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 039-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Facilities Expansion",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$25,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 047-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Programs Management",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$19,000 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "The Maa Trust (MAA) SA 048-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.themaatrust.org/",
+        "Project Name": "Facilities Expansion",
+        "Acronym": "MAA",
+        "Location": "Kenya",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$16,000 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Masaai Mara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2349,
+          -1.3632
         ]
       }
     },
@@ -599,20 +980,18 @@
       "type": "Feature",
       "properties": {
         "Organization Contracted": "Nam Can Tho University (NCTU)",
-        "Link": "https://smartvillage.ieee.org/project/bending-bamboo-vietnam/",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/bending-bamboo-vietnam/",
         "Project Name": "Bending Bamboo � Linguistic Development Education in Vietnam",
         "Acronym": "NCTU",
         "Location": "Vietnam",
         "Years Active": "2017-Present",
-        "Active/Retired/Pending": "A",
+        "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "Y",
-        "2017/2018 Award": "$300,000 ",
-        "Tranche Payments Started": "Started",
+        "2017-2020+ Award": "$300,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "Vietnam",
-        "Villages": "C?n Th? City",
-        "Leader": "Dan Wessner",
-        "Technology": "Computers"
+        "City/Village": "C?n Th? City"
       },
       "geometry": {
         "type": "Point",
@@ -626,20 +1005,18 @@
       "type": "Feature",
       "properties": {
         "Organization Contracted": "Nepal Electrification Project (NEP)",
-        "Link": "",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "",
         "Project Name": "Solar Electrification at Simi Guan",
         "Acronym": "NEP",
         "Location": "Nepal",
         "Years Active": "2016-2017",
-        "Active/Retired/Pending": "R",
+        "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017/2018 Award": "$10,000 ",
-        "Tranche Payments Started": "Paid",
+        "2017-2020+ Award": "$10,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "Nepal",
-        "Villages": "",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Katmandu"
       },
       "geometry": {
         "type": "Point",
@@ -652,21 +1029,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Namibia Solar Pumps (NSP)",
-        "Link": "",
+        "Organization Contracted": "Namibia Solar Pumps (TBS) SV TBS 19-10",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.facebook.com/tbssolarnamibia/",
         "Project Name": "Puros Water Project",
-        "Acronym": "NSP",
+        "Acronym": "TBS",
         "Location": "Namibia",
         "Years Active": "2015 & 2019",
-        "Active/Retired/Pending": "A",
+        "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017/2018 Award": "$8,000 ",
-        "Tranche Payments Started": "Paid",
+        "2017-2020+ Award": "$11,500 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Namibia",
-        "Villages": "",
-        "Leader": "Mark Sickles",
-        "Technology": ""
+        "City/Village": "Puros"
       },
       "geometry": {
         "type": "Point",
@@ -679,21 +1054,44 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization Contracted": "Powerland India SV 052-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "http://powerlandatv.com/",
+        "Project Name": "Electric Hub-motor powered trailer",
+        "Acronym": "PLI",
+        "Location": "India",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "P",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$4,000 ",
+        "Tranche Payments Started": "Pending",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Gao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92933244,
+          15.37630713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization Contracted": "Rural Development Organization Mdabulo (RDO)",
-        "Link": "",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "http://rdo.or.tz/",
         "Project Name": "Rural Electrification Solutions and Education for RDO Tanzania",
         "Acronym": "RDO",
         "Location": "Tanzania",
         "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
+        "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017/2018 Award": "$200,000 ",
+        "2017-2020+ Award": "$200,000 ",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Tanzania",
-        "Villages": "Kilolo",
-        "Leader": "Howard Reader",
-        "Technology": ""
+        "City/Village": "Kilolo"
       },
       "geometry": {
         "type": "Point",
@@ -706,21 +1104,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Renewable Energy Innovators (REIc)",
-        "Link": "https://smartvillage.ieee.org/project/reic-cameroon-2/",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 008-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://rei-cameroon.com/",
         "Project Name": "Expansion Project in Sabongari Community",
         "Acronym": "REIc",
         "Location": "Cameroon",
         "Years Active": "2013-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$199,950 ",
-        "Tranche Payments Started": "In Progress",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$149,950 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Sabongari",
-        "Leader": "Jude Numfor",
-        "Technology": "Microgrid, Farm to Market Software"
+        "City/Village": "Sabongari"
       },
       "geometry": {
         "type": "Point",
@@ -733,21 +1129,119 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Regis University (RGU)",
-        "Link": "",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 012-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://rei-cameroon.com/",
+        "Project Name": "Education & Skills Development",
+        "Acronym": "REIc",
+        "Location": "Cameroon",
+        "Years Active": "2018-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$49,800 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Sabongari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514,
+          7.0489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 027-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://rei-cameroon.com/",
+        "Project Name": "Survey",
+        "Acronym": "REIc",
+        "Location": "Cameroon",
+        "Years Active": "2018-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$12,300 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Sabongari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514,
+          7.0489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://rei-cameroon.com/",
+        "Project Name": "SunBlazer Prototyping",
+        "Acronym": "REIc",
+        "Location": "Cameroon",
+        "Years Active": "2018-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$24,890 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Sabongari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514,
+          7.0489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://rei-cameroon.com/",
+        "Project Name": "Voundou Project",
+        "Acronym": "REIc",
+        "Location": "Cameroon",
+        "Years Active": "2018-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$60,000 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Sabongari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514,
+          7.0489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Regis University (RGU) REQ 217722",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
         "Project Name": "Masters of Development Practice - Program Creation",
         "Acronym": "RGU",
         "Location": "USA",
         "Years Active": "2015-2017",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$250,000 ",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000 ",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
-        "Villages": "Denver",
-        "Leader": "Dan Wessner",
-        "Technology": ""
+        "City/Village": "Denver"
       },
       "geometry": {
         "type": "Point",
@@ -760,21 +1254,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Regis University (RGU)",
-        "Link": "",
-        "Project Name": "MDP Scholarships",
+        "Organization Contracted": "Regis University (RGU) GA 2018",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
+        "Project Name": "MDP Scholarships AY 2018-2019",
         "Acronym": "RGU",
         "Location": "USA",
         "Years Active": "2018-2019",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$29,352 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$29,352 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
-        "Villages": "Denver",
-        "Leader": "Nina Miller",
-        "Technology": ""
+        "City/Village": "Denver"
       },
       "geometry": {
         "type": "Point",
@@ -787,21 +1279,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Regis University (RGU)",
-        "Link": "",
-        "Project Name": "Measurement & Evaluation Praxis Course Scholorships",
+        "Organization Contracted": "Regis University (RGU) GA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
+        "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2019",
         "Acronym": "RGU",
         "Location": "USA",
         "Years Active": "2019",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$8,816 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$8,816 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
-        "Villages": "Denver",
-        "Leader": "Nina Miller",
-        "Technology": ""
+        "City/Village": "Denver"
       },
       "geometry": {
         "type": "Point",
@@ -814,21 +1304,144 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Seva-Bharati India (SBI)",
-        "Link": "",
-        "Project Name": "Sustainable Development of Community Villages",
+        "Organization Contracted": "Regis University (RGU) GA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
+        "Project Name": "MDP Scholarships AY 2019-2020",
+        "Acronym": "RGU",
+        "Location": "USA",
+        "Years Active": "2019-2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$30,140 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "North America",
+        "Country": "USA",
+        "City/Village": "Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.029807,
+          39.789368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Regis University (RGU) GA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
+        "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2020",
+        "Acronym": "RGU",
+        "Location": "USA",
+        "Years Active": "2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$5,049 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "North America",
+        "Country": "USA",
+        "City/Village": "Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.029807,
+          39.789368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Regis University (RGU) GA 041-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.regis.edu/",
+        "Project Name": "MDP Scholarships AY 2020-2021",
+        "Acronym": "RGU",
+        "Location": "USA",
+        "Years Active": "2020-2021",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$26,585 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "North America",
+        "Country": "USA",
+        "City/Village": "Denver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.029807,
+          39.789368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 052-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "NA",
+        "Project Name": "Uganda Telehealth Project",
+        "Acronym": "RSVSV",
+        "Location": "Uganda",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "P",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$18,750 ",
+        "Tranche Payments Started": "Pending",
+        "Continent": "Africa",
+        "Country": "Uganda",
+        "City/Village": "Lugazi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9452,
+          0.3679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 053-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "NA",
+        "Project Name": "Kenya Telehealth Project",
+        "Acronym": "RSVSV",
+        "Location": "Uganda",
+        "Years Active": "2021",
+        "Active/ Retired/ Pending/Dead": "P",
+        "Map Color": "Y",
+        "2017-2020+ Award": "$53,250 ",
+        "Tranche Payments Started": "Pending",
+        "Continent": "Africa",
+        "Country": "Kenya",
+        "City/Village": "Ukwala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.18723,
+          0.1926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Seva-Bharati India (SBI) PA 011-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/education/seva-bharati-india/",
+        "Project Name": "Provisioning ISV Center for Education, Innovation & Training",
         "Acronym": "SBI",
         "Location": "India",
-        "Years Active": "2017-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$250,000 ",
-        "Tranche Payments Started": "In Progress",
+        "Years Active": "2018-2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$30,000 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
-        "Villages": "Kapgari, Jhargram, West Bengal, India",
-        "Leader": "Ranjan Sen",
-        "Technology": "Microgrid, Computers, Tablets, Microwave, Micro-factory, Brick Making, Bead Making,"
+        "City/Village": "Kapgari, Jhargram, West Bengal, India"
       },
       "geometry": {
         "type": "Point",
@@ -841,21 +1454,44 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Sirona Cares Foundation (SCF)",
-        "Link": "https://smartvillage.ieee.org/project/sirona-cares-foundation-haiti/",
+        "Organization Contracted": "Seva-Bharati India (SBI) PA 018-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/education/seva-bharati-india/",
+        "Project Name": "Education for Sustainable Development at ISV Center",
+        "Acronym": "SBI",
+        "Location": "India",
+        "Years Active": "2018-2019",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$50,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Kapgari, Jhargram, West Bengal, India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8734685,
+          22.5226044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Sirona Cares Foundation (SCF) PA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/sirona-cares-foundation-haiti/",
         "Project Name": "SunBlazer Deployment in Haiti",
         "Acronym": "SCF",
         "Location": "Haiti",
         "Years Active": "2011-2014",
-        "Active/Retired/Pending": "R",
+        "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017/2018 Award": "$300,000 ",
-        "Tranche Payments Started": "Paid",
+        "2017-2020+ Award": "$550,180 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "Haiti",
-        "Villages": "",
-        "Leader": "Michele Lacourciere",
-        "Technology": ""
+        "City/Village": "(15 communities)"
       },
       "geometry": {
         "type": "Point",
@@ -868,21 +1504,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Shakti Empowerment Solutions (SES)",
-        "Link": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
-        "Project Name": "Sustainable Energy Distribution for Rural consumers in Eastern Uttar Pradesh, India",
+        "Organization Contracted": "Shakti Empowerment Solutions (SES) PA 002-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
+        "Project Name": "Sustainable Energy Distribution in Eastern Uttar Pradesh, India",
         "Acronym": "SES",
         "Location": "India",
-        "Years Active": "2016-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$253,368 ",
-        "Tranche Payments Started": "In Progress",
+        "Years Active": "2016-2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$202,368 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
-        "Villages": "Uttar Pradesh",
-        "Leader": "Tara McCartney",
-        "Technology": "Microgrid, Portable Battery Kits, Computers"
+        "City/Village": "Uttar Pradesh"
       },
       "geometry": {
         "type": "Point",
@@ -895,21 +1529,44 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Shaybis Nigeria Ltd (SNL)",
-        "Link": "https://smartvillage.ieee.org/project/shaybis-nigeria-ltd-nigeria/",
+        "Organization Contracted": "Shakti Empowerment Solutions (SES) PA 017-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
+        "Project Name": "Edu & Vocational Training for Rural Communities in UP, India",
+        "Acronym": "SES",
+        "Location": "India",
+        "Years Active": "2018-2020",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$50,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Uttar Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0141,
+          26.5446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 004-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.shaybisngltd.com/",
         "Project Name": "Shaybis Lajolo Microgrid Project",
         "Acronym": "SNL",
         "Location": "Nigeria",
         "Years Active": "2016-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$115,770 ",
-        "Tranche Payments Started": "Paid",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$65,770 ",
+        "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
-        "Villages": "Kwara",
-        "Leader": "Tunde Salihu",
-        "Technology": "Microgrid"
+        "City/Village": "Lajolo, Kwara"
       },
       "geometry": {
         "type": "Point",
@@ -922,21 +1579,119 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Thousane Hills Honey Enterprises (HHE",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "HHE",
-        "Location": "",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 013-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.shaybisngltd.com/",
+        "Project Name": "SNL Elctrical Vocational Training Center- Electropreneur Hub",
+        "Acronym": "SNL",
+        "Location": "Nigeria",
+        "Years Active": "2018-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$57,000 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Ilorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 030-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.shaybisngltd.com/",
+        "Project Name": "SunBlazer IVn Prototyping",
+        "Acronym": "SNL",
+        "Location": "Nigeria",
         "Years Active": "2019-Present",
-        "Active/Retired/Pending": "A",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$24,900 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Ilorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 031-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.shaybisngltd.com/",
+        "Project Name": "Comprehensive survey of 10 communities",
+        "Acronym": "SNL",
+        "Location": "Nigeria",
+        "Years Active": "2019-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$7,500 ",
+        "Tranche Payments Started": "Completed",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Baruten, Edu, Kaima, Moro and Patigi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.645,
+          8.8957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 044-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.shaybisngltd.com/",
+        "Project Name": "SunBlazer IVn Manugacturing & Deployment",
+        "Acronym": "SNL",
+        "Location": "Nigeria",
+        "Years Active": "2020-Present",
+        "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017/2018 Award": "$3,000 ",
+        "2017-2020+ Award": "$24,500 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Nigeria",
+        "City/Village": "Ilorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Thousand Hills Honey Enterprises (HHE) SV 036-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.facebook.com/1000HHE/",
+        "Project Name": "Pilot System to Collect, Process and Sell Honey",
+        "Acronym": "HHE",
+        "Location": "Rwanda",
+        "Years Active": "2019-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$3,000 ",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Rwanda",
-        "Villages": "RWANDA, WESTERN PROVINCE, RUSIZI DISTRICT, MUGANZA SECTOR, SHARA CELL, MURABYO VILLAGE",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Rusizi, Nyamasheke, Rutsiro, Nyabihu and Rubavu"
       },
       "geometry": {
         "type": "Point",
@@ -949,21 +1704,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "LKP Solar Soul Collective (SSC)",
-        "Link": "https://smartvillage.ieee.org/project/solar-soul-collective-ssc-kheri/",
-        "Project Name": "Sustainable Energy Distribution for Rural consumers in Lakhimpur, Uttar Pradesh, India",
+        "Organization Contracted": "LKP Solar Soul Collective (SSC) PA 007-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/solar-soul-collective-ssc-kheri/",
+        "Project Name": "Sustainable Energy Distribution in Lakhimpur, Uttar Pradesh, India",
         "Acronym": "SSC",
         "Location": "India",
         "Years Active": "2017-Present",
-        "Active/Retired/Pending": "A",
+        "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017/2018 Award": "$202,454 ",
+        "2017-2020+ Award": "$202,454 ",
         "Tranche Payments Started": "In Progress",
         "Continent": "Asia",
         "Country": "India",
-        "Villages": "Lakhimpur",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Lakhimpur"
       },
       "geometry": {
         "type": "Point",
@@ -976,21 +1729,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation)",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
         "Location": "Cameroon",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$250,000 ",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/5)",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Konene",
-        "Leader": "Monica LaBiche Brown",
-        "Technology": "Microgrid, Portable Battery Kits, Computers, Solar Kiosks"
+        "City/Village": "Konene"
       },
       "geometry": {
         "type": "Point",
@@ -1003,21 +1754,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation)",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
         "Location": "Cameroon",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/5)",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Ilung",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Ilung"
       },
       "geometry": {
         "type": "Point",
@@ -1030,21 +1779,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation)",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
         "Location": "Cameroon",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/5)",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Akeh",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Akeh"
       },
       "geometry": {
         "type": "Point",
@@ -1057,21 +1804,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation)",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
         "Location": "Cameroon",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/5)",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Adere",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Adere"
       },
       "geometry": {
         "type": "Point",
@@ -1084,21 +1829,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation)",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
         "Location": "Cameroon",
         "Years Active": "2012-Present",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000(/5)",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
-        "Villages": "Tchitchap",
-        "Leader": "",
-        "Technology": ""
+        "City/Village": "Tchitchap"
       },
       "geometry": {
         "type": "Point",
@@ -1111,21 +1854,19 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Village Help for South Sudan (VHSS)",
-        "Link": "",
-        "Project Name": "South Sudan Rural Electrification",
+        "Organization Contracted": "Village Help for South Sudan (VHSS) PA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.villagehelpforsouthsudan.org/thiou-village/",
+        "Project Name": "South Sudan Rural Electrification - Thiou Village",
         "Acronym": "VHSS",
         "Location": "South Sudan",
         "Years Active": "2012-2016",
-        "Active/Retired/Pending": "A",
-        "Map Color": "G",
-        "2017/2018 Award": "$50,000 ",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$50,000 ",
         "Tranche Payments Started": "Paid",
         "Continent": "Africa",
         "Country": "South Sudan",
-        "Villages": "",
-        "Leader": "Mou Riini",
-        "Technology": ""
+        "City/Village": "Thiou"
       },
       "geometry": {
         "type": "Point",
@@ -1138,27 +1879,225 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "Wheels Global Foundation (WHF)",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "WGF",
-        "Location": "India",
+        "Organization Contracted": "Waste and Energy Technologies \"Wetech\" (WET)",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.wetechmalawi.com/",
+        "Project Name": "Malawi-Dowa-Renewable Energy for Wealth Creation (Tipundule ndi m�bwereza)",
+        "Acronym": "WET",
+        "Location": "Malawi",
         "Years Active": "Pending",
-        "Active/Retired/Pending": "",
+        "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017/2018 Award": "",
+        "2017-2020+ Award": "$25,000 ",
         "Tranche Payments Started": "Pending",
-        "Continent": "Asia",
-        "Country": "India",
-        "Villages": "New Delhi",
-        "Leader": "Farid Khan",
-        "Technology": ""
+        "Continent": "Africa",
+        "Country": "Malawi",
+        "City/Village": "Dowa"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.191298,
-          28.614089
+          33.93754,
+          -13.65399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Thousand Hills Honey Enterprises (HHE) SV 036-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.facebook.com/1000HHE/",
+        "Project Name": "Pilot System to Collect, Process and Sell Honey",
+        "Acronym": "HHE",
+        "Location": "Rwanda",
+        "Years Active": "2019-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$3,000 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Rwanda",
+        "City/Village": "Rusizi, Nyamasheke, Rutsiro, Nyabihu and Rubavu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.015244,
+          -2.612098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "LKP Solar Soul Collective (SSC) PA 007-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/solar-soul-collective-ssc-kheri/",
+        "Project Name": "Sustainable Energy Distribution in Lakhimpur, Uttar Pradesh, India",
+        "Acronym": "SSC",
+        "Location": "India",
+        "Years Active": "2017-Present",
+        "Active/ Retired/ Pending/Dead": "A",
+        "Map Color": "G",
+        "2017-2020+ Award": "$202,454 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Lakhimpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.722778,
+          28.544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-17",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
+        "Acronym": "TBF/IA",
+        "Location": "Cameroon",
+        "Years Active": "2012-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$250,000 ",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Konene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.403611,
+          10.400556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-18",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
+        "Acronym": "TBF/IA",
+        "Location": "Cameroon",
+        "Years Active": "2012-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Ilung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33388889,
+          10.35916667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-19",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
+        "Acronym": "TBF/IA",
+        "Location": "Cameroon",
+        "Years Active": "2012-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Akeh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29944444,
+          10.44888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-20",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
+        "Acronym": "TBF/IA",
+        "Location": "Cameroon",
+        "Years Active": "2012-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Adere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73361111,
+          10.88722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-21",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://smartvillage.ieee.org/project/igniting-africa/",
+        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
+        "Acronym": "TBF/IA",
+        "Location": "Cameroon",
+        "Years Active": "2012-Present",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "In Progress",
+        "Continent": "Africa",
+        "Country": "Cameroon",
+        "City/Village": "Tchitchap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54,
+          10.51833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Village Help for South Sudan (VHSS) PA NA",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.villagehelpforsouthsudan.org/thiou-village/",
+        "Project Name": "South Sudan Rural Electrification - Thiou Village",
+        "Acronym": "VHSS",
+        "Location": "South Sudan",
+        "Years Active": "2012-2016",
+        "Active/ Retired/ Pending/Dead": "R",
+        "Map Color": "B",
+        "2017-2020+ Award": "$50,000 ",
+        "Tranche Payments Started": "Paid",
+        "Continent": "Africa",
+        "Country": "South Sudan",
+        "City/Village": "Thiou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.581993,
+          4.843925
         ]
       }
     },
@@ -1166,20 +2105,18 @@
       "type": "Feature",
       "properties": {
         "Organization Contracted": "Waste and Energy Technologies \"Wetech\" (WET)",
-        "Link": "",
+        "Link to Developer's Own Organization Site\nIf organization does not have own site, then attemp to reference within ISV website pages": "https://www.wetechmalawi.com/",
         "Project Name": "Malawi-Dowa-Renewable Energy for Wealth Creation (Tipundule ndi m�bwereza)",
         "Acronym": "WET",
         "Location": "Malawi",
         "Years Active": "Pending",
-        "Active/Retired/Pending": "P",
+        "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017/2018 Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000 ",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Malawi",
-        "Villages": "",
-        "Leader": "Edgar Bayani",
-        "Technology": ""
+        "City/Village": "Dowa"
       },
       "geometry": {
         "type": "Point",

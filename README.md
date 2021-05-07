@@ -1,8 +1,8 @@
 # Smart Village Map
 
 ## Introduction
-As the IEEE Smart Village committee is tracking and supporting the advancement of several micro-grid projects across the African continent,
-this is a map to showcase many of those projects, as well as track overall progress of energy access throughout the region.
+As the [IEEE Smart Village](https://smartvillage.ieee.org/) committee is tracking and supporting the advancement of several micro-grid projects around the world,
+this is a map to showcase those projects within the context of existing energy infrastructure.
 
 ![](https://github.com/OhioAdam/RemoteMonitorMap/blob/master/Img/smart_village_map.png)
 
@@ -11,15 +11,15 @@ Taking inspiration from the [Open Infrastructure Map](https://openinframap.org/#
 feature up-to-date information on the existing infrastructure, as well as additional geolocated datasets on specific micro-grid sites.
 This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Power) data from OSM at the moment. This data by itself doesn't show at full zoom level, so it needs to be run through [Tippecanoe](https://www.mapbox.com/help/adjust-tileset-zoom-extent/), and then loaded into Mapbox.
 
-The project sites are updated in a Google Sheets file, and then converted to geoJSON using [this Mapbox tool](https://github.com/mapbox/geo-googledocs/)
+The project sites are updated in a Google Sheets file, and then converted to geoJSON using [csv2geoJSON](https://github.com/mapbox/csv2geojson)
 
 ## Updating the Project Sites
 The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). Once the information in this file is updated, complete the following:
 
-1. Select Columns `A`-`P`, including the column headers, and every row you want to include on the map.
-1. Click on the `Geo` tab, and select **Organization Contracted** for the Unique ID, and then of course **Longitude** for the Longitude value, and **Latitude** for the Latitude value. 
-1. Download the resulting geoJson file, and rename it `projects.geojson`.
-1. Upload this `projects.geojson` file into this GitHub project, overwriting the existing `projects.geojson` file in the master branch (don't worry, we can always get it back).
+1. Select Columns `A`-`O`, including the column headers, and every row you want to include on the map.
+1. Paste in Excel, and save as a CSV file.
+1. use [csv2geoJSON](https://github.com/mapbox/csv2geojson) to convert the `csv` into a `geojson` file.
+1. Replace the existing `projects.json` file in this repo with that one.
 
 The map will automatically load in this new data next time it loads. Changes might take a few minutes to go into effect.
 
