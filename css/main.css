@@ -35,7 +35,7 @@ body {
   * on the page. */
   .map-overlay {
     position: absolute;
-    bottom: 20px;
+    bottom: 0px;
     left: 30px;
     background: rgba(0,0,0, 0.6);
   -webkit-text-fill-color: #fff;
@@ -48,7 +48,7 @@ body {
   
   #features {
     top: 0;
-    height: 100px;
+    height: 80px;
     margin-top: 20px;
     width: 360px;
   }
