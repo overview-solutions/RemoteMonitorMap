@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
         "Link": "https://www.africadevelopmentpromise.org/",
         "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
@@ -17,7 +17,14 @@
         "Continent": "Africa",
         "Country": "Uganda",
         "City/Village": "Kiwenda Village, Kiwenda Parish, Bukusuma Sub-County - Wakiso Districe",
-        "Coutry Count": "1"
+        "Coutry Count": "1",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": "1"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +37,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
         "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
         "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
@@ -43,7 +50,14 @@
         "Continent": "Africa",
         "Country": "Uganda",
         "City/Village": "Kabubbu A Village, Kabubbu Parish, Nangabo Sub-County - Wakiso District",
-        "Coutry Count": "1"
+        "Coutry Count": "1",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": "1"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +70,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
+        "Organization Contracted": "Africa Development Promise (ADP) PA 003-17",
         "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
         "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
         "Acronym": "ADP",
@@ -69,7 +83,14 @@
         "Continent": "Africa",
         "Country": "Uganda",
         "City/Village": "Kiwale Village, Gayaza Parish, Nangabo Sub-County - Wakiso District",
-        "Coutry Count": "1"
+        "Coutry Count": "1",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": "1"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Agri Invest Cameroon (AGC)",
+        "Organization Contracted": "Agri Invest Cameroon (AGC)",
         "Link": "http://www.agriinvestgroup.org/index",
         "Project Name": "Cameroon - North Solaris Program",
         "Acronym": "AGC",
@@ -95,7 +116,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Gobo",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "Narcisse GUYBOLO Parfait",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +136,73 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Community Energy Malawi (CEM) PA NA",
+        "Organization Contracted": "Association des Ressortissants de Gonga (EDG)",
+        "Link": "",
+        "Project Name": "Electricite de Gonga",
+        "Acronym": "EDG",
+        "Location": "Burkina Faso",
+        "Years Active": "Dead",
+        "Active/ Retired/ Pending/Dead": "D",
+        "Map Color": "D",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "Dead",
+        "Continent": "Africa",
+        "Country": "Burkina Faso",
+        "City/Village": "",
+        "Coutry Count": "",
+        "Country Count Active Only": "",
+        "Leader": "Alain Riaud",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.728394,
+          13.344656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Avri Trust (AVRI)",
+        "Link": "",
+        "Project Name": "Lighting Up Sirumalai Hills Project",
+        "Acronym": "AVRI",
+        "Location": "India",
+        "Years Active": "Dead",
+        "Active/ Retired/ Pending/Dead": "D",
+        "Map Color": "D",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "Dead",
+        "Continent": "Asia",
+        "Country": "India",
+        "City/Village": "Sirumalai, Tamil Nadu",
+        "Coutry Count": "",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.988276,
+          10.208412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Community Energy Malawi (CEM) PA NA",
         "Link": "https://www.communityenergymalawi.org/",
         "Project Name": "SunBlazer for Agrucultual Pumping",
         "Acronym": "CEM",
@@ -116,12 +210,19 @@
         "Years Active": "2015-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Malawi",
         "City/Village": "Mtalimanja Village",
-        "Coutry Count": "4"
+        "Coutry Count": "4",
+        "Country Count Active Only": "",
+        "Leader": "Edgar Bayani",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Empowering Communities in Etche and Umunneoche",
         "Acronym": "DCN",
@@ -147,7 +248,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Orwu",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Empowering Communities in Etche and Umunneoche",
         "Acronym": "DCN",
@@ -173,7 +281,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Umuoye",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +301,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Empowering Communities in Etche and Umunneoche",
         "Acronym": "DCN",
@@ -199,7 +314,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Ojia",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Empowering Communities in Etche and Umunneoche",
         "Acronym": "DCN",
@@ -225,7 +347,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Umuekwunne",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +367,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) PA 046-20",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Empowering Communities in Etche and Umunneoche",
         "Acronym": "DCN",
@@ -251,7 +380,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Lokpaukwu",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +400,73 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Organization Contracted": "Community Transformation Centers, Inc (CTC) PA 006-17",
+        "Link": "",
+        "Project Name": "Madan PNG Community Smart Village - Electrification",
+        "Acronym": "CTC",
+        "Location": "Papua New Guinea",
+        "Years Active": "Terminated",
+        "Active/ Retired/ Pending/Dead": "D",
+        "Map Color": "D",
+        "2017-2020+ Award": "$122,000",
+        "Tranche Payments Started": "Terminated",
+        "Continent": "Oceania",
+        "Country": "Papua New Guinea",
+        "City/Village": "Jiwaka",
+        "Coutry Count": "",
+        "Country Count Active Only": "",
+        "Leader": "Robert Wubbena",
+        "Technology": "Microgrid, Portable Classroom, RACHAEL, Long Distance Internet, TV White Space, IntraNet",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8691,
+          -144.6973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Community Transformation Centers, Inc  (CTC)",
+        "Link": "",
+        "Project Name": "Community Entrepreneur Program",
+        "Acronym": "CTC",
+        "Location": "Papua New Guinea",
+        "Years Active": "Terminated",
+        "Active/ Retired/ Pending/Dead": "D",
+        "Map Color": "D",
+        "2017-2020+ Award": "$50,000",
+        "Tranche Payments Started": "Terminated",
+        "Continent": "Oceania",
+        "Country": "Papua New Guinea",
+        "City/Village": "",
+        "Coutry Count": "",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8691,
+          -144.6973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
@@ -277,7 +479,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Ozuzu, Rivers State",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
@@ -303,7 +512,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Akpoku, Rivers State",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
+        "Organization Contracted": "Darway Coast Nigeria (DCN) SV 032-19",
         "Link": "https://www.darwaycoast.com/",
         "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
         "Acronym": "DCN",
@@ -329,7 +545,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Coker, Lagos State",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Green Village Electricity (GVE) - 1 PA 001-17",
+        "Organization Contracted": "Green Village Electricity (GVE) - 1 PA 001-17",
         "Link": "https://gve-group.com/",
         "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
@@ -355,7 +578,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Anambra",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "Ifeanyi Orajaka",
+        "Technology": "Microgrid, Computers, DC Appliances",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +598,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Green Village Electricity (GVE) - 2 PA 001-17",
+        "Organization Contracted": "Green Village Electricity (GVE) - 2 PA 001-17",
         "Link": "https://gve-group.com/",
         "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
@@ -381,7 +611,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Gombe",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Green Village Electricity (GVE) - 3 PA 001-17",
+        "Organization Contracted": "Green Village Electricity (GVE) - 3 PA 001-17",
         "Link": "https://gve-group.com/",
         "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
         "Acronym": "GVE",
@@ -407,7 +644,14 @@
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Akwa Ibom",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Green Village Electricity (GVE) GA NA",
+        "Organization Contracted": "Green Village Electricity (GVE) GA NA",
         "Link": "https://gve-group.com/",
         "Project Name": "Three 24KW Microutilitie",
         "Acronym": "GVE",
@@ -428,12 +672,19 @@
         "Years Active": "2015-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$65,353 ",
+        "2017-2020+ Award": "$65,353",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Niger State",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +697,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Green Village Electricity (GVE) SOW 002",
+        "Organization Contracted": "Green Village Electricity (GVE) SOW 002",
         "Link": "https://gve-group.com/",
         "Project Name": "Battery Kit Village Deployment",
         "Acronym": "GHE",
@@ -454,12 +705,19 @@
         "Years Active": "2012",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$16,666 ",
+        "2017-2020+ Award": "$16,666",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Etche",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -472,7 +730,40 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-17",
+        "Organization Contracted": "Foundation for Charitable Activities (FCA)",
+        "Link": "",
+        "Project Name": "",
+        "Acronym": "",
+        "Location": "Bangladesh",
+        "Years Active": "Dead",
+        "Active/ Retired/ Pending/Dead": "D",
+        "Map Color": "D",
+        "2017-2020+ Award": "",
+        "Tranche Payments Started": "Dead",
+        "Continent": "Asia",
+        "Country": "Bangladesh",
+        "City/Village": "",
+        "Coutry Count": "",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.197846,
+          23.794551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-17",
         "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
@@ -485,7 +776,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Konene",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "Monica LaBiche Brown",
+        "Technology": "Microgrid, Portable Battery Kits, Computers, Solar Kiosks",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-18",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-18",
         "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
@@ -511,7 +809,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Ilung",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-19",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-19",
         "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
@@ -537,7 +842,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Akeh",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -550,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-20",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-20",
         "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
@@ -563,7 +875,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Adere",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-21",
+        "Organization Contracted": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-21",
         "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
         "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
         "Acronym": "TBF/IA",
@@ -589,7 +908,14 @@
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Tchitchap",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -602,7 +928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Lichi Community Solutions (LCS) PA NA",
+        "Organization Contracted": "Lichi Community Solutions (LCS) PA NA",
         "Link": "https://lightupzambia.org/",
         "Project Name": "Sustainable Energy Kiosk for Rural Development - Filibaba",
         "Acronym": "LCS",
@@ -610,12 +936,19 @@
         "Years Active": "2014-2016",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$24,650 ",
+        "2017-2020+ Award": "$24,650",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Zambia",
         "City/Village": "Filibaba Zone in Ipafu, Chingola Zambia",
-        "Coutry Count": "11"
+        "Coutry Count": "11",
+        "Country Count Active Only": "",
+        "Leader": "Steve Szablya",
+        "Technology": "Microgrids, Solar Irrigation, ",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -628,7 +961,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Lichi Community Solutions (LCS) PA Pending",
+        "Organization Contracted": "Lichi Community Solutions (LCS) PA Pending",
         "Link": "https://lightupzambia.org/",
         "Project Name": "Zambia-Mayukwayukwa Reliable Solar Energy for Refugeee Camp",
         "Acronym": "LCS",
@@ -636,12 +969,19 @@
         "Years Active": "2020-Present",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$200,000 ",
+        "2017-2020+ Award": "$200,000",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Zambia",
         "City/Village": "",
-        "Coutry Count": "11"
+        "Coutry Count": "11",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Namibia Solar Pumps (TBS) SV TBS 19-10",
+        "Organization Contracted": "Namibia Solar Pumps (TBS) SV TBS 19-10",
         "Link": "https://www.facebook.com/tbssolarnamibia/",
         "Project Name": "Puros Water Project",
         "Acronym": "TBS",
@@ -662,12 +1002,19 @@
         "Years Active": "2015 & 2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$11,500 ",
+        "2017-2020+ Award": "$11,500",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Namibia",
         "City/Village": "Puros",
-        "Coutry Count": "14"
+        "Coutry Count": "14",
+        "Country Count Active Only": "",
+        "Leader": "Mark Sickles",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -680,7 +1027,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Renewable Energy Innovators (REIc) PA 008-17",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 008-17",
         "Link": "https://rei-cameroon.com/",
         "Project Name": "Expansion Project in Sabongari Community",
         "Acronym": "REIc",
@@ -688,12 +1035,19 @@
         "Years Active": "2013-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$149,950 ",
+        "2017-2020+ Award": "$149,950",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Sabongari",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "Jude Numfor",
+        "Technology": "Microgrid, Farm to Market Software",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -706,7 +1060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Renewable Energy Innovators (REIc) PA 012-18",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 012-18",
         "Link": "https://rei-cameroon.com/",
         "Project Name": "Education & Skills Development",
         "Acronym": "REIc",
@@ -714,12 +1068,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$49,800 ",
+        "2017-2020+ Award": "$49,800",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Sabongari",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +1093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Renewable Energy Innovators (REIc) PA 027-19",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 027-19",
         "Link": "https://rei-cameroon.com/",
         "Project Name": "Survey",
         "Acronym": "REIc",
@@ -740,12 +1101,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$12,300 ",
+        "2017-2020+ Award": "$12,300",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Sabongari",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -758,7 +1126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-19",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-19",
         "Link": "https://rei-cameroon.com/",
         "Project Name": "SunBlazer Prototyping",
         "Acronym": "REIc",
@@ -766,12 +1134,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$24,890 ",
+        "2017-2020+ Award": "$24,890",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Sabongari",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -784,7 +1159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-20",
+        "Organization Contracted": "Renewable Energy Innovators (REIc) PA 029-20",
         "Link": "https://rei-cameroon.com/",
         "Project Name": "Voundou Project",
         "Acronym": "REIc",
@@ -792,12 +1167,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$60,000 ",
+        "2017-2020+ Award": "$60,000",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Cameroon",
         "City/Village": "Sabongari",
-        "Coutry Count": "2"
+        "Coutry Count": "2",
+        "Country Count Active Only": "7",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -810,7 +1192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 052-21",
+        "Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 052-21",
         "Link": "NA",
         "Project Name": "Uganda Telehealth Project",
         "Acronym": "RSVSV",
@@ -818,12 +1200,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$18,750 ",
+        "2017-2020+ Award": "$18,750",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Uganda",
         "City/Village": "Lugazi",
-        "Coutry Count": "1"
+        "Coutry Count": "1",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -836,7 +1225,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 053-21",
+        "Organization Contracted": "Rotary Silicon Valley (RSV) Smart Village GA 053-21",
         "Link": "NA",
         "Project Name": "Kenya Telehealth Project",
         "Acronym": "RSVSV",
@@ -844,12 +1233,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$53,250 ",
+        "2017-2020+ Award": "$53,250",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Ukwala",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +1258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Rural Development Organization Mdabulo (RDO)",
+        "Organization Contracted": "Rural Development Organization Mdabulo (RDO)",
         "Link": "http://rdo.or.tz/",
         "Project Name": "Rural Electrification Solutions and Education for RDO Tanzania",
         "Acronym": "RDO",
@@ -870,12 +1266,19 @@
         "Years Active": "Pending",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$200,000 ",
+        "2017-2020+ Award": "$200,000",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Tanzania",
-        "City/Village": "Kilolo",
-        "Coutry Count": "15"
+        "City/Village": "Kilolo ",
+        "Coutry Count": "15",
+        "Country Count Active Only": "",
+        "Leader": "Howard Reader",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +1291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 004-17",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 004-17",
         "Link": "https://www.shaybisngltd.com/",
         "Project Name": "Shaybis Lajolo Microgrid Project",
         "Acronym": "SNL",
@@ -896,12 +1299,19 @@
         "Years Active": "2016-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$65,770 ",
+        "2017-2020+ Award": "$65,770",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Lajolo, Kwara",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "Tunde Salihu",
+        "Technology": "Microgrid",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -914,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 013-18",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) PA 013-18",
         "Link": "https://www.shaybisngltd.com/",
         "Project Name": "SNL Elctrical Vocational Training Center- Electropreneur Hub",
         "Acronym": "SNL",
@@ -922,12 +1332,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$57,000 ",
+        "2017-2020+ Award": "$57,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Ilorn",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -940,7 +1357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 030-19",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 030-19",
         "Link": "https://www.shaybisngltd.com/",
         "Project Name": "SunBlazer IVn Prototyping",
         "Acronym": "SNL",
@@ -948,12 +1365,19 @@
         "Years Active": "2019-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$24,900 ",
+        "2017-2020+ Award": "$24,900",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Ilorn",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 031-19",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 031-19",
         "Link": "https://www.shaybisngltd.com/",
         "Project Name": "Comprehensive survey of 10 communities",
         "Acronym": "SNL",
@@ -974,12 +1398,19 @@
         "Years Active": "2019-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$7,500 ",
+        "2017-2020+ Award": "$7,500",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Baruten, Edu, Kaima, Moro and Patigi",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -992,7 +1423,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 044-20",
+        "Organization Contracted": "Shaybis Nigeria Ltd (SNL) SV 044-20",
         "Link": "https://www.shaybisngltd.com/",
         "Project Name": "SunBlazer IVn Manugacturing & Deployment",
         "Acronym": "SNL",
@@ -1000,12 +1431,19 @@
         "Years Active": "2020-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$24,500 ",
+        "2017-2020+ Award": "$24,500",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Nigeria",
         "City/Village": "Ilorn",
-        "Coutry Count": "6"
+        "Coutry Count": "6",
+        "Country Count Active Only": "3",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1018,7 +1456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) PA 014-18",
+        "Organization Contracted": "The Maa Trust (MAA) PA 014-18",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Maasai Vocational Training",
         "Acronym": "TMT",
@@ -1026,12 +1464,19 @@
         "Years Active": "2017-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$50,000 ",
+        "2017-2020+ Award": "$50,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) PA 10A-18",
+        "Organization Contracted": "The Maa Trust (MAA) PA 10A-18",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Maasai Youth Empowerment Phase 1",
         "Acronym": "TMT",
@@ -1052,12 +1497,19 @@
         "Years Active": "2017-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$60,000 ",
+        "2017-2020+ Award": "$60,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "Crystal Cortney ",
+        "Technology": "Microgrid, Computers, Tablets,  Microwave, Micro-factory, Brick Making, Bead Making, ",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1070,7 +1522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) PA 10B-18",
+        "Organization Contracted": "The Maa Trust (MAA) PA 10B-18",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Maasai Youth Empowerment Phase 2",
         "Acronym": "TMT",
@@ -1078,12 +1530,19 @@
         "Years Active": "2017-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$140,000 ",
+        "2017-2020+ Award": "$140,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1096,7 +1555,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 033-19",
+        "Organization Contracted": "The Maa Trust (MAA) SA 033-19",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Africa Grants Working Group Lead",
         "Acronym": "TMT",
@@ -1104,12 +1563,19 @@
         "Years Active": "2019-2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$12,000 ",
+        "2017-2020+ Award": "$12,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 037-20",
+        "Organization Contracted": "The Maa Trust (MAA) SA 037-20",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "M&E Strategy Project",
         "Acronym": "TMT",
@@ -1130,12 +1596,19 @@
         "Years Active": "2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$23,694 ",
+        "2017-2020+ Award": "$23,694",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1148,7 +1621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 038-20",
+        "Organization Contracted": "The Maa Trust (MAA) SA 038-20",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Education & Skills Development",
         "Acronym": "TMT",
@@ -1156,12 +1629,19 @@
         "Years Active": "2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$15,000 ",
+        "2017-2020+ Award": "$15,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 039-21",
+        "Organization Contracted": "The Maa Trust (MAA) SA 039-21",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Facilities Expansion",
         "Acronym": "TMT",
@@ -1182,12 +1662,19 @@
         "Years Active": "2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1200,7 +1687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 047-21",
+        "Organization Contracted": "The Maa Trust (MAA) SA 047-21",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Programs Management",
         "Acronym": "TMT",
@@ -1208,12 +1695,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$19,000 ",
+        "2017-2020+ Award": "$19,000",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "5",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "The Maa Trust (MAA) SA 048-21",
+        "Organization Contracted": "The Maa Trust (MAA) SA 048-21",
         "Link": "https://www.themaatrust.org/",
         "Project Name": "Facilities Expansion",
         "Acronym": "TMT",
@@ -1234,12 +1728,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$16,000 ",
+        "2017-2020+ Award": "$16,000",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Kenya",
         "City/Village": "Masaai Mara",
-        "Coutry Count": "12"
+        "Coutry Count": "12",
+        "Country Count Active Only": "5",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1252,7 +1753,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Thousand Hills Honey Enterprises (HHE) SV 036-20",
+        "Organization Contracted": "Thousand Hills Honey Enterprises (HHE) SV 036-20",
         "Link": "https://www.facebook.com/1000HHE/",
         "Project Name": "Pilot System to Collect, Process and Sell Honey",
         "Acronym": "HHE",
@@ -1260,12 +1761,19 @@
         "Years Active": "2019-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$3,000 ",
+        "2017-2020+ Award": "$3,000",
         "Tranche Payments Started": "In Progress",
         "Continent": "Africa",
         "Country": "Rwanda",
         "City/Village": "Rusizi, Nyamasheke, Rutsiro, Nyabihu and Rubavu",
-        "Coutry Count": "17"
+        "Coutry Count": "17",
+        "Country Count Active Only": "9",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1278,7 +1786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Village Help for South Sudan (VHSS) PA NA",
+        "Organization Contracted": "Village Help for South Sudan (VHSS) PA NA",
         "Link": "https://www.villagehelpforsouthsudan.org/thiou-village/",
         "Project Name": "South Sudan Rural Electrification - Thiou Village",
         "Acronym": "VHSS",
@@ -1286,12 +1794,19 @@
         "Years Active": "2012-2016",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$50,000 ",
+        "2017-2020+ Award": "$50,000",
         "Tranche Payments Started": "Paid",
         "Continent": "Africa",
         "Country": "South Sudan",
         "City/Village": "Thiou",
-        "Coutry Count": "18"
+        "Coutry Count": "18",
+        "Country Count Active Only": "",
+        "Leader": "Mou Riini",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1304,7 +1819,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Waste and Energy Technologies \"Wetech\" (WET)",
+        "Organization Contracted": "Waste and Energy Technologies \"Wetech\" (WET)",
         "Link": "https://www.wetechmalawi.com/",
         "Project Name": "Malawi-Dowa-Renewable Energy for Wealth Creation (Tipundule ndi m’bwereza)",
         "Acronym": "WET",
@@ -1312,12 +1827,19 @@
         "Years Active": "Pending",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "Pending",
         "Continent": "Africa",
         "Country": "Malawi",
         "City/Village": "Dowa",
-        "Coutry Count": "4"
+        "Coutry Count": "4",
+        "Country Count Active Only": "",
+        "Leader": "Edgar Bayani",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1330,7 +1852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Center for Social Action (CSA)",
+        "Organization Contracted": "Center for Social Action (CSA) ",
         "Link": "https://csamumbai.in/",
         "Project Name": "Degaon Development Project",
         "Acronym": "CSA",
@@ -1338,12 +1860,19 @@
         "Years Active": "2019-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "In Progress",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Degaon Village - District of Raigad, Maharashtra",
-        "Coutry Count": "5"
+        "Coutry Count": "5",
+        "Country Count Active Only": "2",
+        "Leader": "Fr. Mario Mendes",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1885,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Future Generations University (FGU) PA 034-20",
+        "Organization Contracted": "Future Generations University (FGU) PA 034-20",
         "Link": "https://www.future.edu/",
         "Project Name": "Bending Bamboo – ON Semiconductor Teacher Scholarships",
         "Acronym": "FGU",
@@ -1364,12 +1893,19 @@
         "Years Active": "2020-2021",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$80,000 ",
+        "2017-2020+ Award": "$80,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "Vietnam",
         "City/Village": "Mekong Delta",
-        "Coutry Count": "7"
+        "Coutry Count": "7",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1382,7 +1918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Global Himilayan Expedition (GHE) FA 01-2016",
+        "Organization Contracted": "Global Himilayan Expedition (GHE) FA 01-2016",
         "Link": "https://www.ghe.co.in/",
         "Project Name": "Eletrification of Remote Himalayan Village - Lingshed Monastery",
         "Acronym": "GHE",
@@ -1390,12 +1926,19 @@
         "Years Active": "2016-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$65,535 ",
+        "2017-2020+ Award": "$65,535",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Lingshed",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1408,7 +1951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Global Himilayan Expedition (GHE) GA 10-2015",
+        "Organization Contracted": "Global Himilayan Expedition (GHE) GA 10-2015",
         "Link": "https://www.ghe.co.in/",
         "Project Name": "Electrification of Remote Himalayan Village - Phugtal Monastery",
         "Acronym": "GHE",
@@ -1416,12 +1959,19 @@
         "Years Active": "2015-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$35,752 ",
+        "2017-2020+ Award": "$35,752",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Phugtal",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "Paras Loomba",
+        "Technology": "Microgrids, Satellite Internet, Eco Tourism",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Global Himilayan Expedition (GHE) PA-23-18",
+        "Organization Contracted": "Global Himilayan Expedition (GHE) PA-23-18",
         "Link": "https://www.ghe.co.in/",
         "Project Name": "Survey of ISV Electrified Villages",
         "Acronym": "GHE",
@@ -1442,12 +1992,19 @@
         "Years Active": "2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$6,400 ",
+        "2017-2020+ Award": "$6,400",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Lingshed",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1460,7 +2017,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Indian Institute of Technology Mandi (IITM) SV045-20",
+        "Organization Contracted": "Indian Institute of Technology Mandi (IITM) SV045-20",
         "Link": "https://www.iitmandi.ac.in/",
         "Project Name": "Three Wheeler Battery Swap and Public Charging Test",
         "Acronym": "IITM",
@@ -1468,12 +2025,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "Y",
-        "2017-2020+ Award": "$24,960 ",
+        "2017-2020+ Award": "$24,960",
         "Tranche Payments Started": "In Progress",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Mandi",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "2",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1486,7 +2050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "LKP Solar Soul Collective (SSC) PA 007-17",
+        "Organization Contracted": "LKP Solar Soul Collective (SSC) PA 007-17",
         "Link": "https://smartvillage.ieee.org/project/solar-soul-collective-ssc-kheri/",
         "Project Name": "Sustainable Energy Distribution in Lakhimpur, Uttar Pradesh, India",
         "Acronym": "SSC",
@@ -1494,12 +2058,19 @@
         "Years Active": "2017-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$202,454 ",
+        "2017-2020+ Award": "$202,454",
         "Tranche Payments Started": "In Progress",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Lakhimpur",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "2",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1512,20 +2083,27 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Nam Can Tho University (NCTU)",
+        "Organization Contracted": "Nam Can Tho University (NCTU)",
         "Link": "https://smartvillage.ieee.org/project/bending-bamboo-vietnam/",
-        "Project Name": "Bending Bamboo – Linguistic Development Education in Vietnam",
+        "Project Name": "Bending Bamboo – Linguistic Development Education in Vietnam ",
         "Acronym": "NCTU",
         "Location": "Vietnam",
         "Years Active": "2017-Present",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$300,000 ",
+        "2017-2020+ Award": "$300,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "Vietnam",
         "City/Village": "Cần Thơ City",
-        "Coutry Count": "7"
+        "Coutry Count": "7",
+        "Country Count Active Only": "6",
+        "Leader": "Dan Wessner",
+        "Technology": "Computers",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1538,7 +2116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Nepal Electrification Project (NEP)",
+        "Organization Contracted": "Nepal Electrification Project (NEP)",
         "Link": "",
         "Project Name": "Solar Electrification at Simi Guan",
         "Acronym": "NEP",
@@ -1546,12 +2124,19 @@
         "Years Active": "2016-2017",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$10,000 ",
+        "2017-2020+ Award": "$10,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "Nepal",
         "City/Village": "Katmandu",
-        "Coutry Count": "13"
+        "Coutry Count": "13",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1564,7 +2149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Powerland India SV 052-21",
+        "Organization Contracted": "Powerland India SV 052-21",
         "Link": "http://powerlandatv.com/",
         "Project Name": "Electric Hub-motor powered trailer",
         "Acronym": "PLI",
@@ -1572,12 +2157,19 @@
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$4,000 ",
+        "2017-2020+ Award": "$4,000",
         "Tranche Payments Started": "Pending",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Gao",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1590,7 +2182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Seva-Bharati India (SBI) PA 011-18",
+        "Organization Contracted": "Seva-Bharati India (SBI) PA 011-18",
         "Link": "https://smartvillage.ieee.org/education/seva-bharati-india/",
         "Project Name": "Provisioning ISV Center for Education, Innovation & Training",
         "Acronym": "SBI",
@@ -1598,12 +2190,19 @@
         "Years Active": "2018-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$30,000 ",
+        "2017-2020+ Award": "$30,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Kapgari, Jhargram, West Bengal, India",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "Ranjan Sen",
+        "Technology": "Microgrid, Computers, Tablets,  Microwave, Micro-factory, Brick Making, Bead Making, ",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1616,7 +2215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Seva-Bharati India (SBI) PA 018-18",
+        "Organization Contracted": "Seva-Bharati India (SBI) PA 018-18",
         "Link": "https://smartvillage.ieee.org/education/seva-bharati-india/",
         "Project Name": "Education for Sustainable Development at ISV Center",
         "Acronym": "SBI",
@@ -1624,12 +2223,19 @@
         "Years Active": "2018-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$50,000 ",
+        "2017-2020+ Award": "$50,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Kapgari, Jhargram, West Bengal, India",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1642,7 +2248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shakti Empowerment Solutions (SES) PA 002-17",
+        "Organization Contracted": "Shakti Empowerment Solutions (SES) PA 002-17",
         "Link": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
         "Project Name": "Sustainable Energy Distribution in Eastern Uttar Pradesh, India",
         "Acronym": "SES",
@@ -1650,12 +2256,19 @@
         "Years Active": "2016-2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$202,368 ",
+        "2017-2020+ Award": "$202,368",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Uttar Pradesh",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "Tara McCartney",
+        "Technology": "Microgrid, Portable Battery Kits, Computers",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1668,7 +2281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Shakti Empowerment Solutions (SES) PA 017-18",
+        "Organization Contracted": "Shakti Empowerment Solutions (SES) PA 017-18",
         "Link": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
         "Project Name": "Edu & Vocational Training for Rural Communities in UP, India",
         "Acronym": "SES",
@@ -1676,12 +2289,19 @@
         "Years Active": "2018-2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$50,000 ",
+        "2017-2020+ Award": "$50,000",
         "Tranche Payments Started": "Completed",
         "Continent": "Asia",
         "Country": "India",
         "City/Village": "Uttar Pradesh",
-        "Coutry Count": "8"
+        "Coutry Count": "8",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1694,20 +2314,27 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Honduras IEEE Section (HIS) MOU 050-21",
+        "Organization Contracted": "Honduras IEEE Section (HIS) MOU 050-21",
         "Link": "https://r9.ieee.org/",
-        "Project Name": "Women Empowerment Solar Energy Project",
+        "Project Name": "Women Empowerment Solar Energy Project ",
         "Acronym": "HIS",
         "Location": "Honduras",
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "Y",
-        "2017-2020+ Award": "$13,500 ",
+        "2017-2020+ Award": "$13,500",
         "Tranche Payments Started": "In Progress",
         "Continent": "Latin America",
         "Country": "Honduras",
         "City/Village": "Tegucigalpa",
-        "Coutry Count": "10"
+        "Coutry Count": "10",
+        "Country Count Active Only": "4",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1720,7 +2347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Grid Alternatives (GRA) MOU 2020",
+        "Organization Contracted": "Grid Alternatives (GRA) MOU 2020",
         "Link": "https://gridalternatives.org/what-we-do/tribal-program",
         "Project Name": "Solar Demonstration Project - American Tribal Communities",
         "Acronym": "GRA",
@@ -1728,12 +2355,19 @@
         "Years Active": "2020-Present",
         "Active/ Retired/ Pending/Dead": "P",
         "Map Color": "Y",
-        "2017-2020+ Award": "$44,200 ",
+        "2017-2020+ Award": "$44,200",
         "Tranche Payments Started": "Pending",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +2380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) GA 041-20",
+        "Organization Contracted": "Regis University (RGU) GA 041-20",
         "Link": "https://www.regis.edu/",
         "Project Name": "MDP Scholarships AY 2020-2021",
         "Acronym": "RGU",
@@ -1754,12 +2388,19 @@
         "Years Active": "2020-2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$26,585 ",
+        "2017-2020+ Award": "$26,585",
         "Tranche Payments Started": "In Progress",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "8",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1772,7 +2413,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) GA 2018",
+        "Organization Contracted": "Regis University (RGU) GA 2018",
         "Link": "https://www.regis.edu/",
         "Project Name": "MDP Scholarships AY 2018-2019",
         "Acronym": "RGU",
@@ -1780,12 +2421,19 @@
         "Years Active": "2018-2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$29,352 ",
+        "2017-2020+ Award": "$29,352",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "Nina Miller",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1798,7 +2446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) GA NA",
+        "Organization Contracted": "Regis University (RGU) GA NA",
         "Link": "https://www.regis.edu/",
         "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2019",
         "Acronym": "RGU",
@@ -1806,12 +2454,19 @@
         "Years Active": "2019",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$8,816 ",
+        "2017-2020+ Award": "$8,816",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "Nina Miller",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1824,7 +2479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) GA NA",
+        "Organization Contracted": "Regis University (RGU) GA NA",
         "Link": "https://www.regis.edu/",
         "Project Name": "MDP Scholarships AY 2019-2020",
         "Acronym": "RGU",
@@ -1832,12 +2487,19 @@
         "Years Active": "2019-2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$30,140 ",
+        "2017-2020+ Award": "$30,140",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1850,7 +2512,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) GA NA",
+        "Organization Contracted": "Regis University (RGU) GA NA",
         "Link": "https://www.regis.edu/",
         "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2020",
         "Acronym": "RGU",
@@ -1858,12 +2520,19 @@
         "Years Active": "2020",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$5,049 ",
+        "2017-2020+ Award": "$5,049",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1876,20 +2545,27 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Regis University (RGU) REQ 217722",
+        "Organization Contracted": "Regis University (RGU) REQ 217722",
         "Link": "https://www.regis.edu/",
-        "Project Name": "Masters of Development Practice - Program Creation",
+        "Project Name": "Masters of Development Practice - Program Creation ",
         "Acronym": "RGU",
         "Location": "USA",
         "Years Active": "2015-2017",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$250,000 ",
+        "2017-2020+ Award": "$250,000",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "USA",
         "City/Village": "Denver",
-        "Coutry Count": "9"
+        "Coutry Count": "9",
+        "Country Count Active Only": "",
+        "Leader": "Dan Wessner",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1902,7 +2578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Sirona Cares Foundation (SCF) PA NA",
+        "Organization Contracted": "Sirona Cares Foundation (SCF) PA NA",
         "Link": "https://smartvillage.ieee.org/project/sirona-cares-foundation-haiti/",
         "Project Name": "SunBlazer Deployment in Haiti",
         "Acronym": "SCF",
@@ -1910,12 +2586,19 @@
         "Years Active": "2011-2014",
         "Active/ Retired/ Pending/Dead": "R",
         "Map Color": "B",
-        "2017-2020+ Award": "$550,180 ",
+        "2017-2020+ Award": "$550,180",
         "Tranche Payments Started": "Completed",
         "Continent": "North America",
         "Country": "Haiti",
         "City/Village": "(15 communities)",
-        "Coutry Count": "16"
+        "Coutry Count": "16",
+        "Country Count Active Only": "",
+        "Leader": "Michele Lacourciere",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1928,7 +2611,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Beyond Chacay Foundation (BCF) PA 022-18",
+        "Organization Contracted": "Beyond Chacay Foundation (BCF) PA 022-18",
         "Link": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
         "Project Name": "Smart Destination Galapagos",
         "Acronym": "BCF",
@@ -1936,12 +2619,19 @@
         "Years Active": "2018-Present",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "Completed",
         "Continent": "South America",
         "Country": "Ecuador",
         "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos",
-        "Coutry Count": "3"
+        "Coutry Count": "3",
+        "Country Count Active Only": "1",
+        "Leader": "David Lansdale",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
@@ -1954,20 +2644,27 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Organization Contracted": "Beyond Chacay Foundation (BCF) SV 051-21",
+        "Organization Contracted": "Beyond Chacay Foundation (BCF) SV 051-21",
         "Link": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
-        "Project Name": "Build Local Capacity in Renewable Energy and Entrepreneurship.",
+        "Project Name": "Build Local Capacity in Renewable Energy and Entrepreneurship. ",
         "Acronym": "BCF",
         "Location": "Galapagos",
         "Years Active": "2021",
         "Active/ Retired/ Pending/Dead": "A",
         "Map Color": "G",
-        "2017-2020+ Award": "$25,000 ",
+        "2017-2020+ Award": "$25,000",
         "Tranche Payments Started": "Completed",
         "Continent": "South America",
         "Country": "Ecuador",
         "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos",
-        "Coutry Count": "3"
+        "Coutry Count": "3",
+        "Country Count Active Only": "",
+        "Leader": "",
+        "Technology": "",
+        "Additional SDGs": "",
+        "HOW MANY SOLAR PANELS ARE INSTALLED?": "",
+        "WHAT IS THE SOLAR PANEL (PV) GENERATING CAPACITY?": "",
+        "Number of Stand-Alone Project Sites": ""
       },
       "geometry": {
         "type": "Point",
