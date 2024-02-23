@@ -14,7 +14,14 @@ This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Po
 The project sites are updated in a Google Sheets file, and then converted to geoJSON using [csv2geoJSON](https://github.com/mapbox/csv2geojson)
 
 ## Updating the Project Sites
-The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). In the Foundant "Grant Interface", the Long/Lat is found in the "LOI" file. Once the information in this file is updated, complete the following:
+The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). 
+
+The following values can be cound in the respective places:
+| Value            | Location                                   |
+|------------------|--------------------------------------------|
+| Sponsor          | PSA                                        |
+| Long/Lat         | "LOI" File in FOundant                     |
+
 
 1. Select Columns `A`-`O`, including the column headers, and every row you want to include on the map.
 1. Paste in Excel, and save as a CSV file.
