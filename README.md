@@ -14,7 +14,7 @@ This is primarily using the [power=lines](https://wiki.openstreetmap.org/wiki/Po
 The project sites are updated in a Google Sheets file, and then converted to geoJSON using [csv2geoJSON](https://github.com/mapbox/csv2geojson)
 
 ## Updating the Project Sites
-The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). Users will need access to the Foundant ["Grant Interface](https://www.grantinterface.com/Home/Logon?&urlKey=ieeesmartvillage) in order to find the right data to update the map with. 
+The map pulls in the data for each project site through the `projects.geojson` file that exists in the latest Master branch of this project. This file is produced from the "Smart Village Project Locations" [Google Sheet](https://docs.google.com/spreadsheets/d/1XMTSGbI8A6yrwcfD-uBw8_eZn62BZrWo0-xXFgGbB2E/edit?usp=sharing). Users will need access to the Foundant ["Grant Interface"](https://www.grantinterface.com/Home/Logon?&urlKey=ieeesmartvillage) in order to find the right data to update the map with. 
 
 The following values can be cound in the respective places:
 | Value            | Location                                   |
