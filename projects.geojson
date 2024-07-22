@@ -463,7 +463,7 @@
         "Sponsor": "EDS",
         "Tranche Payments Started": "In Progress",
         "Continent": "North America",
-        "Country": "Hawaii",
+        "Country": "USA",
         "City/Village": "Hawaiian Homestead Land/ Molokai",
         "Coutry Count": "9",
         "Country Count Active Only": "",
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization Contracted": "E-Hands Energy ( India) Pvt Ltd.",
+        "Organization Contracted": "E-Hands Energy Pvt Ltd.",
         "Link": "",
         "Project Name": "Livelihood Focused Solar Microgrids in Maharashtra",
         "Acronym": "ESF",
