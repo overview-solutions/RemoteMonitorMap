@@ -4,4174 +4,1423 @@
     {
       "type": "Feature",
       "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "MAA",
-        "Location": "Argentina",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Quemado Chico",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "This project is based on installing solar microgrids across unelectrified villages to support household and community services, as well as to power a water extraction and distribution system. The project will provide water services for 210 households, of which 23 households will receive electricity services, as well as 7 community centers, serving a total of 970 people directly. Services will be paid by their users based on consumption, and the systems will be operated and maintained by a partnership between Monte Adentro and a local solar PV cooperative. The main outcomes are to improve household living conditions, strengthen food security and agriculture, and create professional opportunities through productive uses of the new services."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.56789566,
-          -26.20978954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Peligrosa",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.15800916,
-          -26.20095748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Medialuna",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.10145723,
-          -26.12459361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Gramillar",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.14781888,
-          -26.07920749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Gloria",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.20899334,
-          -26.05075405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Tacuruzal",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.08201928,
-          -26.30421934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Palmar Chico",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.36110397,
-          -26.17377302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Monte Adentro Argentina",
-        "Link": "https://www.monteadentro.org/",
-        "Project Name": "Electricity to Combat Deforestation Effects \nin Chaco Argentina",
-        "Acronym": "",
-        "Location": "Argentina",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "South America",
-        "Country": "Argentina",
-        "City/Village": "Boqueron",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.26062309,
-          -26.2667789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "MEED Renewables Company Limited",
-        "Link": "",
-        "Project Name": "Nigeria - Kaduna - Furana Off-grid Light-Up Project",
-        "Acronym": "MEED",
-        "Location": "Nigeria",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "ISV",
-        "Tranche Payments Started": "",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Kaduna/ Furana Village",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "This is an off-grid electrification based on Solar mini-grid, sized at 11.5kWp with storage of 17.6kWh.\nProject will provide electricity, will support creation of small businesses and will provide training to youths\nand members of the community.\nProject will be deployed in Furana community, it will serve about 50 homes and 12 businesses in its first\nphase, covering a population of about 350 direct and indirect beneficiaries.\nMEED Renewables will be signing the Project Agreement with ISV and will be responsible for project\nexecution. Our team has engaged this community for over a year, understanding their needs, and how the\navailability of electricity will improve their productivity.\nOur team has deployed Solar-Hybrid systems ranging from 700Wp � 25kWp generating over 1MWh of\nelectricity."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.209147,
-          11.273333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Rural Development Organization (RDO)",
-        "Link": "",
-        "Project Name": "Tanzania - Iringa - Honey Farming Hub",
-        "Acronym": "RDO",
-        "Location": "Tanzania",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "ISV",
-        "Tranche Payments Started": "",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Iringa",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "The goal of the project is the establishment of honey farming using modern methods at Tanzanian NGO Rural Development Organization (RDO). It is part of a larger program for providing electricity to the communities, with honey generating income to help sustain the program. The completed project will provide model character to other organizations to adopt from to implement their own honey farming projects. The project will be implemented in the districts Mufindi and Kilolo. Since 2001 RDO has been actively engaging the communities in these areas through water supply, vocational training and a home-based orphans support program. In phase 1 of the project a group of local beekeepers (RDO a"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35,
-          8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Bright Hope International",
-        "Link": "https://www.brighthope.org/",
-        "Project Name": "The Natoot Farm Upscale Project",
-        "Acronym": "",
-        "Location": "Kenya",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "IEEEF",
-        "Tranche Payments Started": "",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Turkana",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "The Natoot Farm is the pillar of hope for the many households that engage daily in farming activities in Lodwar, Turkana Central, one of the poorest counties in Northern Kenya. This has improved food security, food affordability and food quality and socio-economic development. The Natoot Farm is situated in Lodwar in Turkana Central. Its GPS coordinates are 3.120891,35.650710. The farm is supported by Bright Hope International in partnership with the Full Gospel Churches of Kenya. Natoot farm supports over 70 farmers and is subdivided into 11 blocks each holding 7 to 8 farmers. As a model sustainable agriculture zone, the farm has attracted different cadres of personalities whose contributions have greatly improved the performance of the farm, including college and university students"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.65071,
-          3.120891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Centre For Technology Alternatives For Rural Areas (CTARA)",
-        "Link": "",
-        "Project Name": "Electrification of Tribal Hamlets inside Wildlife Sanctuary through Solar Mini Grid\n\nTHROUGH SOLAR MINI GRID",
-        "Acronym": "CTARA",
-        "Location": "India",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "ISV",
-        "Tranche Payments Started": "",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Tansa Wildlife Sanctuary, Maharashtra",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": "The project proposes incremental electrification and clean drinking water supply in the hamlets in the Tansa Wildlife Sanctuary in Thane district of Maharashtra. The first pilot project will be installed in Shisavli hamlet. As this hamlet exists inside the wildlife sanctuary where utility grid can�t be extended, the decentralized energy intervention is relevant and necessary for the people. Once the model is demonstrated it will be expanded to many additional isolated villages."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73,
-          19
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "KiloWatts for Humanity",
-        "Link": "",
-        "Project Name": "The YIAI GEARED Initiative - Green Education for Agri-entrepreneurship Development Initiative",
-        "Acronym": "KWH",
-        "Location": "Zambia",
-        "Years Active": "2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Chisale",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "Support the IEEE Smart Village partner Youths in Agriculture Initiative (YIAI) in execution of their proposed project �Green Education for Agri-entrepreneurship Development Initiative� (GEARED Initiative) and Mentor YIAI to operate a self-sustaining off-grid rural social enterprise. To implement the program the following projects were constructed: Two 5-kW solar micro-grids and two example farm plots to educate and train local youth, and Two 6-acre farm plots equipped with drip irrigation systems. The farm plots will be rented to youth that successfully complete the education portion."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.995,
-          -14.046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "KiloWatts for Humanity",
-        "Link": "",
-        "Project Name": "The YIAI GEARED Initiative - Green Education for Agri-entrepreneurship Development Initiative",
-        "Acronym": "KWH",
-        "Location": "Zambia",
-        "Years Active": "2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Bethel",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.038,
-          -14.072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "KiloWatts for Humanity",
-        "Link": "",
-        "Project Name": "The YIAI GEARED Initiative - Green Education for Agri-entrepreneurship Development Initiative",
-        "Acronym": "KWH",
-        "Location": "Zambia",
-        "Years Active": "2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Farm Plot #1",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.111,
-          -14.062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "KiloWatts for Humanity",
-        "Link": "",
-        "Project Name": "The YIAI GEARED Initiative - Green Education for Agri-entrepreneurship Development Initiative",
-        "Acronym": "KWH",
-        "Location": "Zambia",
-        "Years Active": "2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Farm Plot #2",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.159,
-          -14.039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Computers LLC",
-        "Link": "",
-        "Project Name": "Replace Off-Grid Fossil Fuel Generators with Solar+Storage Clean Energy",
-        "Acronym": "CLH",
-        "Location": "USA",
-        "Years Active": "2024- Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "EDS",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "North America",
-        "Country": "Hawaii",
-        "City/Village": "Hawaiian Homestead Land/ Molokai",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": "The Off-Grid Homesteaders on Molokai pollute the air/environment using gasoline electric generators\nand propane for water heating and cooking. Replace dirty propane and gasoline generators with 7.5kW solar-PV arrays and 20kWh Li-ion batteries at\nNative Hawaiian Homestead sites living without access to grid connection. Each compound has 4 multigenerational\nfamilies and we will use energy sharing to provide power between each dwelling. Access to\nelectricity and energy savings will allow purchase and usage of farming equipment and other critical items for\nincome."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.09761,
-          21.16227
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "IEEE Secci�n Guatemala",
-        "Link": "https://www.ieee.org.gt/",
-        "Project Name": "Permaculture and solar dried fruits to sustain education and women empowerment",
-        "Acronym": "",
-        "Location": "Guatemala",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "ISV",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "South America",
-        "Country": "Guatemala",
-        "City/Village": "Popt�n/ Pet�n",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "The use of technology in agricultural production will allow an effective system, using a solar pumping and \nautomatic irrigation system, humidity control, in the permaculture farm located in Popt�n. In the process of \ntechnology application, educational courses will be given in the community on agriculture and technology, \nand the production will be sold in the local market, adapting to the three pillars of ISV. The initial benefit will \nbe for 10 families, 50 agronomy students, and 1,000 children."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4489,
-          16.3459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "E-Hands Energy ( India) Pvt Ltd.",
-        "Link": "",
-        "Project Name": "Livelihood Focused Solar Microgrids in Maharashtra",
-        "Acronym": "ESF",
-        "Location": "India",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Akloli Kolni",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.057311,
-          19.476592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "E-Hands Energy ( India) Pvt Ltd.",
-        "Link": "",
-        "Project Name": "Livelihood Focused Solar Microgrids in Maharashtra",
-        "Acronym": "ESF",
-        "Location": "India",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Ghogat Pada",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.996685,
-          19.536606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "E-Hands Energy ( India) Pvt Ltd.",
-        "Link": "",
-        "Project Name": "Livelihood Focused Solar Microgrids in Maharashtra",
-        "Acronym": "ESF",
-        "Location": "India",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Pir Pada",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.014908,
-          19.574794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "E-Hands Energy ( India) Pvt Ltd.",
-        "Link": "",
-        "Project Name": "Livelihood Focused Solar Microgrids in Maharashtra",
-        "Acronym": "ESF",
-        "Location": "India",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Dawade Pada",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.006168,
-          19.533473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Meraki",
-        "Link": "",
-        "Project Name": "Kenz Pack : Low Energy Consumption Bagasse Packaging",
-        "Acronym": "",
-        "Location": "Egypt",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Egypt",
-        "City/Village": "Edfo/Aswan",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "Plastic industry is moving towards biodegradable, environmentally friendly plastic due to the harmful \neffects of synthetic plastics. Bioplastics being environment friendly, are gaining higher market share to \nreplace synthetic plastic. Currently, packaging remains the leading field for bioplastics with almost 65 percent \nof the total bioplastics market in 2018. The utilization of bagasse in bioplastic production instead of burning \nis the right solution. The project's focus is to implement the development of a low-carbon solution. This \nproject will result in providing work opportunities, investing social / health well-being of the people. The \nfuture goal is to replicate the same model in several other villages after maintaining a successful running \nproject is managed by the villagers"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.859432,
-          25.042274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Stichting Jacana",
-        "Link": "https://jacana.help/",
-        "Project Name": "Solar designers and installers, Zambia",
-        "Acronym": "JCZ",
-        "Location": "Zambia",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Chipata",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "There are many solar energy products on the local market in Eastern Zambia but every shopkeeper likes to sell what is available in his or her shop and as much of it as possible. We experienced that there is no local knowledge of designing solar systems, not even in the shops that sell the equipment. As a result: customers, get very confusing and contradicting stories in the shops and often walk out without solar equipment, because they can�t afford what was offered to them. There is a valid business demand for well-trained local solar system designers and installers, who offer honest solutions using local supply. Jacana piloted this with success with the help of a PUM senior expert. Now Jacana is expanding training and \nguiding entrepreneurs in the solar sector."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33,
-          -12
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "SunMoksha Power Private Limited",
-        "Link": "",
-        "Project Name": "Katashola Smart Micro-Economic Zone (SMZ) for Socioeconomic Development",
-        "Acronym": "SMI",
-        "Location": "India",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Smart Micro-Economic Zone (SMZ)",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.42959,
-          22.402692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "SunMoksha Power Private Limited",
-        "Link": "",
-        "Project Name": "Katashola Smart Micro-Economic Zone (SMZ) for Socioeconomic Development",
-        "Acronym": "",
-        "Location": "India",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Kantashola Gram Panchayat",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.756002,
-          22.290885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "SunMoksha Power Private Limited",
-        "Link": "",
-        "Project Name": "Katashola Smart Micro-Economic Zone (SMZ) for Socioeconomic Development",
-        "Acronym": "",
-        "Location": "India",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Haldibuni",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.404814,
-          22.368249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Power Electronics & Controls Ltd",
-        "Link": "",
-        "Project Name": "Expanding Makambako Solar/Wind Hybrid Mini-Grid Project",
-        "Acronym": "PEC",
-        "Location": "Tanzania",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Mtanga",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "PEC aims to provide modern energy access to Makambako district, focusing on low-income households in five villages. Currently serving 1500 households, we plan to reach an additional 1000 due to economic growth and rising electricity demand. The project uses cluster-based isolated mini-grids with wind and solar power systems for reliable and sustainable energy supply. PEC will also upgrade analog meters to smart meters to improve efficiency, management, and electricity reliability. Our goal is to enhance education, health, water, sanitation, and environmental sustainability. By empowering individuals, creating economic opportunities, and fostering sustainable development, we aim to transform lives in the Makambako district."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.03492582,
-          -8.990136264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Power Electronics & Controls Ltd",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Tanzania",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Kifumbe",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.00642402,
-          -8.93902507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Power Electronics & Controls Ltd",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Tanzania",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Mahongole",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.23350395,
-          -8.613440506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Power Electronics & Controls Ltd",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Tanzania",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Manga",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.7326856,
-          -9.713946229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Power Electronics & Controls Ltd",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Tanzania",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Usetule",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.99521953,
-          -8.916267432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Generating Livelihoods for the Tribal Women Entrepreneurs (5 Tribal Villages in Aravalli Region)",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "NPSS",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Vagpur Vagpur",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.41329814,
-          23.66761883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Generating Livelihoods for the Tribal Women Entrepreneurs (5 Tribal Villages in Aravalli Region)",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Shamlaji Rudardi",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.38441612,
-          23.68298646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Generating Livelihoods for the Tribal Women Entrepreneurs (5 Tribal Villages in Aravalli Region)",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Ode Ode",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.38867892,
-          23.74639375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Generating Livelihoods for the Tribal Women Entrepreneurs (5 Tribal Villages in Aravalli Region)",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Dhandasan",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.35284596,
-          23.72130786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Generating Livelihoods for the Tribal Women Entrepreneurs (5 Tribal Villages in Aravalli Region)",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Budhrasan Budhrasan",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.34575655,
-          23.7786685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Entric Power Systems Ltd",
-        "Link": "",
-        "Project Name": "Niger Delta - Fixed Energy Rate for Solar Home Systems (SHS)",
-        "Acronym": "EPS",
-        "Location": "Nigeria",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Amaku & Umuduike",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "Solar home systems (SHS) and solar freezers under this project will be implemented using a blended business model. SHS will be sold to customers using a fixed energy rate model. Customers subscribe to a product from a product category, according to their energy needs, and pay a monthly subscription fee for 5 years. Afterward, we reclaim and recycle the system, and the customer can either resubscribe to a new product of the same category or upgrade to a higher category."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.19516,
-          5.212684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "United Parents Against Lead & Other Environmental Hazards",
-        "Link": "",
-        "Project Name": "Petersburg, VA - Community Resiliency Hub",
-        "Acronym": "UPAL",
-        "Location": "USA",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Petersburg, Virginia,",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "The solar PV system is estimated to produce 46,560 KWH annually which is greater than the usage of 21,500 KWH annually. Therefore, there will be 100 % savings. The resiliency hub will act as the first-ever solar resiliency hub in Petersburg and will serve as the launch pad to scale service to a population of about 30,000 people."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.404472,
-          37.219872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "",
-        "Link": "",
-        "Project Name": "FCAB, Solar Cold Storage",
-        "Acronym": "",
-        "Location": "Bangladesh",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "",
-        "Country": "Bangladesh",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.71132831,
-          24.46092339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "",
-        "Link": "",
-        "Project Name": "BF, Solar EcoLodge",
-        "Acronym": "",
-        "Location": "Bhutan",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "",
-        "Country": "Bhutan",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.2824333,
-          27.4080961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Agri Invest Cameroon (AGC)",
-        "Link": "http://www.agriinvestgroup.org/index",
-        "Project Name": "Cameroon - North Solaris Program",
-        "Acronym": "AGC",
-        "Location": "Cameroon",
-        "Years Active": "Pending",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Gobo",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.409722,
-          10.0325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-17",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
-        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
-        "Acronym": "TBF/IA",
-        "Location": "Cameroon",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Konene",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.400556,
-          6.403611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-18",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
-        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
-        "Acronym": "TBF/IA",
-        "Location": "Cameroon",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Ilung",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.35916667,
-          6.33388889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Association des Ressortissants de Gonga (EDG)",
-        "Link": "",
-        "Project Name": "Electricite de Gonga",
-        "Acronym": "EDG",
-        "Location": "Burkina Faso",
-        "Years Active": "Dead",
-        "Retired / Active / Pending (Future)": "D",
-        "Map Color": "D",
-        "Sponsor": "",
-        "Tranche Payments Started": "Dead",
-        "Continent": "Africa",
-        "Country": "Burkina Faso",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.728394,
-          13.344656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Avri Trust (AVRI)",
-        "Link": "",
-        "Project Name": "Lighting Up Sirumalai Hills Project",
-        "Acronym": "AVRI",
-        "Location": "India",
-        "Years Active": "Dead",
-        "Retired / Active / Pending (Future)": "D",
-        "Map Color": "D",
-        "Sponsor": "",
-        "Tranche Payments Started": "Dead",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Sirumalai, Tamil Nadu",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.988276,
-          10.208412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-19",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
-        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
-        "Acronym": "TBF/IA",
-        "Location": "Cameroon",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Akeh",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.44888889,
-          6.29944444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-20",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
-        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
-        "Acronym": "TBF/IA",
-        "Location": "Cameroon",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Adere",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.88722222,
-          6.73361111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Igniting Africa (IA) (AKA Torchbearer Foundation) PA 005-21",
-        "Link": "https://smartvillage.ieee.org/project/igniting-africa/",
-        "Project Name": "Microgrids and Mobile Power Plants for Community Transformation",
-        "Acronym": "TBF/IA",
-        "Location": "Cameroon",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Tchitchap",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.51833333,
-          5.54
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Renewable Energy Innovators (REIc) PA 008-17",
-        "Link": "https://rei-cameroon.com/",
-        "Project Name": "Expansion Project in Sabongari Community",
-        "Acronym": "REIc",
-        "Location": "Cameroon",
-        "Years Active": "2013-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Sabongari",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.514,
-          7.0489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Renewable Energy Innovators (REIc) PA 012-18",
-        "Link": "https://rei-cameroon.com/",
-        "Project Name": "Education & Skills Development",
-        "Acronym": "REIc",
-        "Location": "Cameroon",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Sabongari",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.514,
-          7.0489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Renewable Energy Innovators (REIc) PA 027-19",
-        "Link": "https://rei-cameroon.com/",
-        "Project Name": "Survey",
-        "Acronym": "REIc",
-        "Location": "Cameroon",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Sabongari",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.514,
-          7.0489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Renewable Energy Innovators (REIc) PA 029-19",
-        "Link": "https://rei-cameroon.com/",
-        "Project Name": "SunBlazer Prototyping",
-        "Acronym": "REIc",
-        "Location": "Cameroon",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Sabongari",
-        "Coutry Count": "2",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.514,
-          7.0489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Renewable Energy Innovators (REIc) PA 029-20",
-        "Link": "https://rei-cameroon.com/",
-        "Project Name": "Voundou Project - 45kW mini-grid pilot expansion",
-        "Acronym": "REIc",
-        "Location": "Cameroon",
-        "Years Active": "2021-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Cameroon",
-        "City/Village": "Sabongari",
-        "Coutry Count": "2",
-        "Country Count Active Only": "7",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.514,
-          7.0489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Community Transformation Centers, Inc (CTC) PA 006-17",
-        "Link": "",
-        "Project Name": "Madan PNG Community Smart Village - Electrification",
-        "Acronym": "CTC",
-        "Location": "Papua New Guinea",
-        "Years Active": "Terminated",
-        "Retired / Active / Pending (Future)": "D",
-        "Map Color": "D",
-        "Sponsor": "$122,000 ",
-        "Tranche Payments Started": "Terminated",
-        "Continent": "Oceania",
-        "Country": "Papua New Guinea",
-        "City/Village": "Jiwaka",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8691,
-          -144.6973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Community Transformation Centers, Inc (CTC)",
-        "Link": "",
-        "Project Name": "Community Entrepreneur Program",
-        "Acronym": "CTC",
-        "Location": "Papua New Guinea",
-        "Years Active": "Terminated",
-        "Retired / Active / Pending (Future)": "D",
-        "Map Color": "D",
-        "Sponsor": "$50,000 ",
-        "Tranche Payments Started": "Terminated",
-        "Continent": "Oceania",
-        "Country": "Papua New Guinea",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.8691,
-          -144.6973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Maqu Daojia Yak Herders Cooperative",
-        "Link": "",
-        "Project Name": "Solar-Based Distributed Generation in Pastoral Areas -Gansu",
-        "Acronym": "",
-        "Location": "China",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In progress",
-        "Continent": "Asia",
-        "Country": "China",
-        "City/Village": "Tibetan Autonomous Prefecture, Gannan, Gansu, Guoluo, Qinghai; Ganzi, SIchuan",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "This project aims to provide distributed solar power generation and carry out capacity building to address the energy needs of local herders innovatively. It includes energy usage, community education, and entrepreneurship. The installation of a microgrid in powerless areas saves 84.6% in investment compared to the construction of a traditional grid. The direct beneficiaries in phase 1 of the pilot project are eight families and 53 Tibetan herders. Then, the model can be spread to nearby regions, benefiting thousands of nomadic families. Maqu DaoErjia Yak Herders Cooperative is based in the local community, and was established in 2013, with a mission to increase the income of the community with a sustainable model, has rich experience in earning money by providing guide services."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101,
-          33
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shanxi Dacheng Low-carbon Energy Technologies, Inc",
-        "Link": "",
-        "Project Name": "Low-cost Solar Heating for Rural Villagers, Shanxi",
-        "Acronym": "",
-        "Location": "China",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In progress",
-        "Continent": "Asia",
-        "Country": "China",
-        "City/Village": "Zhangzi County, Shanxi Province",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "This project aims to provide low-cost solar heating to one million people five years. Dacheng Energy & associated collaborative units [ENTERPRISE] will train [EDUCATION] participating villagers to make, install, and maintain roof-top solar heating systems [ENERGY] for their houses. The 1st phase is to test the business model by recruiting 10 villagers from two rural areas near Changzhi, Shanxi Province, China. Key"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.0985394,
-          36.1829336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Suibin County Shengshi Xintai Grain Growing Professional Cooperative",
-        "Link": "",
-        "Project Name": "Rural Breeding on Granary Roof PV, Heilongjiang",
-        "Acronym": "GPP",
-        "Location": "China",
-        "Years Active": "2024-Present",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "China",
-        "City/Village": "Suibin County, Heilongjiang",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.852759,
-          47.289116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Energy Center University of Chile",
-        "Link": "",
-        "Project Name": "AgriPV system to cope with more than 10 years of drought",
-        "Acronym": "",
-        "Location": "Chile",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "South America",
-        "Country": "Chile",
-        "City/Village": "R�o Hurtado, Coquimbo",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "AgriPV systems allow combining agricultural production with generation of electricity with PV panels in \nheight on the same plot of land. It increases land use efficiency while promoting synergy between both \nsystems. Vulnerable areas in Chile are experiencing drought and extreme weather events for more than 10 \nyears. Enable a PV plant in height that allows the cultivation of fruit trees or vegetables underneath, with \nshading that acts as a protective layer, which could result in benefits for the crop: control of radiation on fruit; \ndecrease of crop transpiration and humidity maintenance/water savings; control of extreme weather events; \nPV for tech irrigation system; electromobility, etc. \nThe community location is in R�o Hurtado, Coquimbo region with 357 members (small-scale farmers)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70,
-          30
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Congo Agriculture Technologies",
-        "Link": "",
-        "Project Name": "CAT, Solar Milling",
-        "Acronym": "CAT",
-        "Location": "DRC",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Democratic Repubic of Congo",
-        "City/Village": "Kabare",
-        "Coutry Count": "25",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Congo Agriculture Technologies",
-        "Link": "",
-        "Project Name": "CAT, Solar Powered Bakery",
-        "Acronym": "CAT",
-        "Location": "DRC",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Democratic Repubic of Congo",
-        "City/Village": "Kabare",
-        "Coutry Count": "25",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28,
-          2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "MER",
-        "Link": "",
-        "Project Name": "Bagasse Packaging",
-        "Acronym": "MER",
-        "Location": "Egypt",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "",
-        "Country": "Egypt",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.98657152,
-          30.01201747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Beyond Chacay Foundation (BCF) PA 022-18",
-        "Link": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
-        "Project Name": "Smart Destination Galapagos",
-        "Acronym": "BCF",
-        "Location": "Galapagos",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "South America",
-        "Country": "Ecuador",
-        "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos",
-        "Coutry Count": "3",
-        "Country Count Active Only": "1",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.537984,
-          -0.130591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Beyond Chacay Foundation (BCF) SV 051-21",
-        "Link": "https://smartvillage.ieee.org/project/beyond-chacay-foundation-galapagos/",
-        "Project Name": "Build Local Capacity in Renewable Energy and Entrepreneurship.",
-        "Acronym": "BCF",
-        "Location": "Galapagos",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "South America",
-        "Country": "Ecuador",
-        "City/Village": "Puerto Baquerizo Moreno, San Cristobal, Galapagos",
-        "Coutry Count": "3",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.537984,
-          -0.130591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Beyond Chacay Foundation (BCF)",
-        "Link": "",
-        "Project Name": "Youth Renewable Energy Education and Enterprise Development Program",
-        "Acronym": "BCF",
-        "Location": "Galapagos",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "South America",
-        "Country": "Ecuador",
-        "City/Village": "San Cristobal and Santa Cruz Islands, Galapagos Islands",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.3157,
-          -0.7433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Sirona Cares Foundation (SCF) PA NA",
-        "Link": "https://smartvillage.ieee.org/project/sirona-cares-foundation-haiti/",
-        "Project Name": "SunBlazer Deployment in Haiti",
-        "Acronym": "SCF",
-        "Location": "Haiti",
-        "Years Active": "2011-2014",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "ISV and SCF",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "Haiti",
-        "City/Village": "(15 communities)",
-        "Coutry Count": "16",
-        "Country Count Active Only": "",
-        "Project Description": "In the Caribbean country of Haiti, only one in seven people have access to electricity. IEEE Smart Village partners with the Sirona Cares Foundation, which, in 2011, began deploying IEEE Smart Village community charging stations. The partner franchises local entrepreneurs in rural communities of Haiti, who then lease portable battery kits to homeowners for lighting and cell phone charging. The SunBlazer was found to be able to support lighting for up to 83 homes in a community, and the monthly fee to the homeowner is less than the cost of candles and kerosene (and/or fuel to run small generators), making electric home lighting easily affordable to people making $1-2 per day. In this way, With the franchise model, the only upfront investment required of the customer is a 2-month security deposit of $12.50 USD for the battery kit.\nIn June 2011 Sirona Cares initially deployed renewable-energy solutions in six villages and expanded to 15 villages in 2012 serving 1200 homes or 7200 people. After that, Sirona Cares expanded to serve another 2,200 homes reaching an estimated 20,000 people. At that time, 10 more homeowners joined the waiting list to receive portable battery kits for every home that was lit. Leveraging IEEE Smart Village�s initial seed funding and business model, Sirona Cares was able to attract additional funding of $1 million from international donors to expand its capacity by a factor of three.\n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.298539,
-          18.592366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Honduras IEEE Section (HIS) MOU 050-21",
-        "Link": "https://r9.ieee.org/",
-        "Project Name": "Women Empowerment Solar Energy Project",
-        "Acronym": "HIS",
-        "Location": "Honduras",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Latin America",
-        "Country": "Honduras",
-        "City/Village": "Tegucigalpa",
-        "Coutry Count": "10",
-        "Country Count Active Only": "4",
-        "Project Description": "The purpose is to empower those who are powerless. The pilot project aims to improve health and education in Honduras by introducing off-grid solar-powered lighting, charging stations, and cooking fans."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87,
-          14
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Foundation for Charitable Activities (FCA)",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "",
-        "Location": "Bangladesh",
-        "Years Active": "Dead",
-        "Retired / Active / Pending (Future)": "D",
-        "Map Color": "D",
-        "Sponsor": "",
-        "Tranche Payments Started": "Dead",
-        "Continent": "Asia",
-        "Country": "Bangladesh",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.197846,
-          23.794551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Center for Social Action (CSA)",
-        "Link": "https://csamumbai.in/",
-        "Project Name": "Degaon Development Project",
-        "Acronym": "CSA",
-        "Location": "India",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Degaon Village - District of Raigad, Maharashtra",
-        "Coutry Count": "5",
-        "Country Count Active Only": "2",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.2972,
-          17.6394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Global Himilayan Expedition (GHE) FA 01-2016",
-        "Link": "https://www.ghe.co.in/",
-        "Project Name": "Eletrification of Remote Himalayan Village - Lingshed Monastery",
-        "Acronym": "GHE",
-        "Location": "India",
-        "Years Active": "2016-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Lingshed",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.8287,
-          33.9074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Global Himilayan Expedition (GHE) GA 10-2015",
-        "Link": "https://www.ghe.co.in/",
-        "Project Name": "Electrification of Remote Himalayan Village - Phugtal Monastery",
-        "Acronym": "GHE",
-        "Location": "India",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Phugtal",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.183,
-          22.2663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Global Himilayan Expedition (GHE) PA-23-18",
-        "Link": "https://www.ghe.co.in/",
-        "Project Name": "Survey of ISV Electrified Villages",
-        "Acronym": "GHE",
-        "Location": "India",
-        "Years Active": "2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Lingshed",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.8287,
-          33.9074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Global Himilayan Expedition (GHE) PSA-060-22",
-        "Link": "https://www.ghe.co.in/",
-        "Project Name": "Solar Electrification of Aboi Changle Nagaland",
-        "Acronym": "GHE",
-        "Location": "India",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Aboi Changle, Mon/Nagaland",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": "Solar Electrification of the Aboi Changle Village in the state of Nagaland in India. It will be a first of its kind project where the capacity development will be done at the local level to enable the maintenance of the infrastructure. Solar Electrification of the village will impact the lives of 44 households and 377 people who are residing in the remote village of Aboi Changle."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          94.907161,
-          26.588451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Indian Institute of Technology Mandi (IITM) SV045-20",
-        "Link": "https://www.iitmandi.ac.in/",
-        "Project Name": "Three Wheeler Battery Swap and Public Charging Test",
-        "Acronym": "IITM",
-        "Location": "India",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Mandi",
-        "Coutry Count": "8",
-        "Country Count Active Only": "2",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.9861,
-          31.7754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Magan Sangrahalaya Samiti",
-        "Link": "",
-        "Project Name": "Digital Empowerment for Women and Adolescents",
-        "Acronym": "MSS",
-        "Location": "India",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Bhiloda Taluka",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.3874,
-          23.6878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "SunMoksha Power Private Limited",
-        "Link": "",
-        "Project Name": "Solar Smart Irrigation for Kudagaon Island Village, Odisha",
-        "Acronym": "",
-        "Location": "India",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Odisha",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          84.4715593,
-          20.737893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Tezpur University",
-        "Link": "",
-        "Project Name": "TU Assam Sustainable Commm�ty",
-        "Acronym": "",
-        "Location": "India",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "PES",
-        "Tranche Payments Started": "",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Jhawani, Assam",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92,
-          26
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "LKP Solar Soul Collective (SSC) PA 007-17",
-        "Link": "https://smartvillage.ieee.org/project/solar-soul-collective-ssc-kheri/",
-        "Project Name": "Sustainable Energy Distribution in Lakhimpur, Uttar Pradesh, India",
-        "Acronym": "SSC",
-        "Location": "India",
-        "Years Active": "2017-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Lakhimpur",
-        "Coutry Count": "8",
-        "Country Count Active Only": "2",
-        "Project Description": "The project is situated in Lakhimpur Kheri U.P. on the India-Nepal border, close to the foothills of the Indian Himalayas. There is a rich diversity of population, home to unique ethnic communities that have lived inside and along the Tarai forest belt that runs on both sides of the Indian-Nepalese border. Substantial farming in these tribal villages is unable to provide meaningful employment, other alternatives of livelihood are needed. Access to electricity is challenging and gets worse in the forest areas where a large percentage of the population is completely off-grid \n\nThis social enterprise is focused on improving living standards, delivering quality education, creating entrepreneurs and job opportunities, and will further reach out to government and other social welfare programs. The profits from this endeavor will be reinvested into the program, and a larger involvement of the community will be pursued. This Project shall result in two pilot installations affecting a community of approx. 3,000 people or more, in the community of Nasir-Kishanpur and Pernia-Surma. \n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.722778,
-          28.544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Powerland India SV 052-21",
-        "Link": "http://powerlandatv.com/",
-        "Project Name": "Electric Hub-motor powered trailer",
-        "Acronym": "PLI",
-        "Location": "India",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Gao",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.92933244,
-          15.37630713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Seva-Bharati India (SBI) PA 011-18",
-        "Link": "https://smartvillage.ieee.org/education/seva-bharati-india/",
-        "Project Name": "Provisioning ISV Center for Education, Innovation & Training",
-        "Acronym": "SBI",
-        "Location": "India",
-        "Years Active": "2018-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Kapgari, Jhargram, West Bengal, India",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.8734685,
-          22.5226044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Seva-Bharati India (SBI) PA 018-18",
-        "Link": "https://smartvillage.ieee.org/education/seva-bharati-india/",
-        "Project Name": "Education for Sustainable Development at ISV Center",
-        "Acronym": "SBI",
-        "Location": "India",
-        "Years Active": "2018-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Kapgari, Jhargram, West Bengal, India",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.8734685,
-          22.5226044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shakti Empowerment Solutions (SES) PA 002-17",
-        "Link": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
-        "Project Name": "Sustainable Energy Distribution in Eastern Uttar Pradesh, India",
-        "Acronym": "SES",
-        "Location": "India",
-        "Years Active": "2016-2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Uttar Pradesh",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          84.0141,
-          26.5446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shakti Empowerment Solutions (SES) PA 017-18",
-        "Link": "https://smartvillage.ieee.org/project/shakti-empowerment-solutions-pvt-ltd-ses-india/",
-        "Project Name": "Edu & Vocational Training for Rural Communities in UP, India",
-        "Acronym": "SES",
-        "Location": "India",
-        "Years Active": "2018-2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Uttar Pradesh",
-        "Coutry Count": "8",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          84.0141,
-          26.5446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "EQUINOCT COMMUNITY SOURCED MODELLING SOLUTIONS LLP",
-        "Link": "",
-        "Project Name": "Equinoct, Community Resource Efficiency Hub, Kerala",
-        "Acronym": "",
-        "Location": "India",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Asia",
-        "Country": "India",
-        "City/Village": "Paravur, Ernakulam, Kerala",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76,
-          10
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) PA 014-18",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Maasai Vocational Training",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2017-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) PA 10A-18",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Maasai Youth Empowerment Phase 1",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2017-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) PA 10B-18",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Maasai Youth Empowerment Phase 2",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2017-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 033-19",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Africa Grants Working Group Lead",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2019-2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 037-20",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "M&E Strategy Project",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 038-20",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Education & Skills Development",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 039-21",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Facilities Expansion",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 047-21",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Programs Management",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "5",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 048-21",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Facilities Expansion",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Masaai Mara",
-        "Coutry Count": "12",
-        "Country Count Active Only": "5",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 048-21",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "BH Natoot Solar Farm",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "The Maa Trust (MAA) SA 048-22",
-        "Link": "https://www.themaatrust.org/",
-        "Project Name": "Enterprise education for masaai women and youth",
-        "Acronym": "TMT",
-        "Location": "Kenya",
-        "Years Active": "2024",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.2349,
-          -1.3632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Community Energy Malawi (CEM) PA NA",
-        "Link": "https://www.communityenergymalawi.org/",
-        "Project Name": "SunBlazer for Agrucultual Pumping",
-        "Acronym": "CEM",
-        "Location": "Malawi",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Malawi",
-        "City/Village": "Mtalimanja Village",
-        "Coutry Count": "4",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.2699,
-          -13.5762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Waste and Energy Technologies \"Wetech\" (WET)",
-        "Link": "https://www.wetechmalawi.com/",
-        "Project Name": "Malawi-Dowa-Renewable Energy for Wealth Creation (Tipundule ndi m�bwereza)",
-        "Acronym": "WET",
-        "Location": "Malawi",
-        "Years Active": "Pending",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Malawi",
-        "City/Village": "Dowa",
-        "Coutry Count": "4",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.93754,
-          -13.65399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Namibia Solar Pumps (TBS) SV TBS 19-10",
-        "Link": "https://www.facebook.com/tbssolarnamibia/",
-        "Project Name": "Puros Water Project",
-        "Acronym": "TBS",
-        "Location": "Namibia",
-        "Years Active": "2015 & 2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Namibia",
-        "City/Village": "Puros",
-        "Coutry Count": "14",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9619,
-          -18.78987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Trinity Business Solutions CC",
-        "Link": "",
-        "Project Name": "Namibia Solar Pumps (TBS) SV TBS",
-        "Acronym": "TBS",
-        "Location": "Namibia",
-        "Years Active": "2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Namibia",
-        "City/Village": "Ludwig Ndinda",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.43,
-          -20.58
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Trinity Business Solutions CC",
-        "Link": "",
-        "Project Name": "Solar Water Heating systems for Marginalized children",
-        "Acronym": "TBS",
-        "Location": "Namibia",
-        "Years Active": "2018",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Namibia",
-        "City/Village": "Katutura, Windhoek",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.0658,
-          -22.5609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Trinity Business Solutions CC",
-        "Link": "",
-        "Project Name": "Solar Water Heating systems for Marginalized children",
-        "Acronym": "TBS",
-        "Location": "Namibia",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "",
-        "Map Color": "",
-        "Sponsor": "",
-        "Tranche Payments Started": "Denied",
-        "Continent": "Africa",
-        "Country": "Namibia",
-        "City/Village": "Windhoek",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.17403,
-          41.40338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Nepal Electrification Project (NEP)",
-        "Link": "",
-        "Project Name": "Solar Electrification at Simi Guan",
-        "Acronym": "NEP",
-        "Location": "Nepal",
-        "Years Active": "2016-2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "Nepal",
-        "City/Village": "Katmandu",
-        "Coutry Count": "13",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          86.588646,
-          27.972332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "",
-        "Link": "",
-        "Project Name": "LAWG Water for EcoTourism",
-        "Acronym": "",
-        "Location": "Nicaragua",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "",
-        "Continent": "",
-        "Country": "Nicaragua",
-        "City/Village": "",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.10368803,
-          11.47229185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) PA 046-20",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Empowering Communities in Etche and Umunneoche",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Orwu",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.998482,
-          5.216787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) PA 046-20",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Empowering Communities in Etche and Umunneoche",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Umuoye",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.040599,
-          5.233195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) PA 046-20",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Empowering Communities in Etche and Umunneoche",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ojia",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.014724,
-          5.145179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) PA 046-20",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Empowering Communities in Etche and Umunneoche",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Umuekwunne",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.047818,
-          5.15581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) PA 046-20",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Empowering Communities in Etche and Umunneoche",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Lokpaukwu",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.427955,
-          5.92787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) SV 032-19",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ozuzu, Rivers State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.028582,
-          5.083962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) SV 032-19",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Akpoku, Rivers State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.028582,
-          5.083962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN) SV 032-19",
-        "Link": "https://www.darwaycoast.com/",
-        "Project Name": "Minigrid in Ozuzu Community & Akpoku Community, Nigeria",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Coker, Lagos State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.028582,
-          5.083962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN)",
-        "Link": "",
-        "Project Name": "Scalable Minigrids homes/bus.",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ihuaba",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.676746,
-          5.03618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Green Village Electricity (GVE) - 1 PA 001-17",
-        "Link": "https://gve-group.com/",
-        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
-        "Acronym": "GVE",
-        "Location": "Nigeria",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Anambra",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.596389,
-          8.943611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Green Village Electricity (GVE) - 2 PA 001-17",
-        "Link": "https://gve-group.com/",
-        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
-        "Acronym": "GVE",
-        "Location": "Nigeria",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Gombe",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.014167,
-          10.1425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Green Village Electricity (GVE) - 3 PA 001-17",
-        "Link": "https://gve-group.com/",
-        "Project Name": "Expansion Phase (I); Electricity Access to Off-Grid Communities in Nigeria",
-        "Acronym": "GVE",
-        "Location": "Nigeria",
-        "Years Active": "2012-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Akwa Ibom",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.703889,
-          8.778056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Green Village Electricity (GVE) GA NA",
-        "Link": "https://gve-group.com/",
-        "Project Name": "Three 24KW Microutilitie",
-        "Acronym": "GVE",
-        "Location": "Nigeria",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Niger State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5983,
-          9.9309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Green Village Electricity (GVE) SOW 002",
-        "Link": "https://gve-group.com/",
-        "Project Name": "Battery Kit Village Deployment",
-        "Acronym": "GHE",
-        "Location": "Nigeria",
-        "Years Active": "2012",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Etche",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0498,
-          5.0632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL) PA 004-17",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "Shaybis Lajolo Microgrid Project",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2016-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Lajolo, Kwara",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.94450628,
-          8.66326173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL) PA 013-18",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "SNL Elctrical Vocational Training Center- Electropreneur Hub",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ilorn",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.55,
-          8.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL) SV 030-19",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "SunBlazer IVn Prototyping",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ilorn",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.55,
-          8.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL) SV 031-19",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "Comprehensive survey of 10 communities",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Baruten, Edu, Kaima, Moro and Patigi",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.645,
-          8.8957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL) SV 044-20",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "SunBlazer IVn Manugacturing & Deployment",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Ilorin",
-        "Coutry Count": "6",
-        "Country Count Active Only": "3",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.55,
-          8.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL)",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "Omupo Electricity for Water and Women Rice Producers' Support",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Omupo, Kwara State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8,
-          8.2667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Shaybis Nigeria Ltd (SNL)",
-        "Link": "https://www.shaybisngltd.com/",
-        "Project Name": "Omupo Electrify Rice Prod�n",
-        "Acronym": "SNL",
-        "Location": "Nigeria",
-        "Years Active": "2023",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Omupo, Kwara State",
-        "Coutry Count": "6",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.7925,
-          8.2775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Darway Coast Nigeria (DCN)",
-        "Link": "",
-        "Project Name": "Scalable Minigrids homes/bus.",
-        "Acronym": "DCN",
-        "Location": "Nigeria",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Nigeria",
-        "City/Village": "Garki",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.434581,
-          5.959769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Thousand Hills Honey Enterprises (HHE) SV 036-20",
-        "Link": "https://www.facebook.com/1000HHE/",
-        "Project Name": "Pilot System to Collect, Process and Sell Honey",
-        "Acronym": "HHE",
-        "Location": "Rwanda",
-        "Years Active": "2019-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Rwanda",
-        "City/Village": "Rusizi, Nyamasheke, Rutsiro, Nyabihu and Rubavu",
-        "Coutry Count": "17",
-        "Country Count Active Only": "9",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.015244,
-          -2.612098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Africa Development Promise (ADP) PA 071-23",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "ADP Walk-in Cold Storage",
-        "Acronym": "ADP",
-        "Location": "Rwanda",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Rwanda",
-        "City/Village": "Kimaranzara Cell, Rilima Sector, Bugesera District, Eastern Province, Rwanda",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": "ADP offers a bundle of smart farming solutions that include energy, capacity building, enterprise, and network building to give cooperatives a competitive advantage in the marketplace. The project is implemented in the Rilima Sector of Bugesera District in Rwanda, which will benefit approx. 180 households with improved water and cold storage facilities. Both improvements in the community will lead to improved health and increased income for community members"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.225278,
-          2.159722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Africa Development Promise (ADP) PA 003-17",
-        "Link": "https://www.africadevelopmentpromise.org/",
-        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
-        "Acronym": "ADP",
-        "Location": "Uganda",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Uganda",
-        "City/Village": "Kiwenda Village, Kiwenda Parish, Bukusuma Sub-County - Wakiso District",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": "The goal of the Project is to promote rural women's entrepreneurship in agricultural cooperatives while also addressing the interconnectivity of water, energy and agriculture. As part of this mission, Supplier seeks to provide access to clean energy and education through solar power, thereby improving the living standards of the rural populace in the Wakiso District."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.48,
-          0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Africa Development Promise (ADP) PA 003-17",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
-        "Acronym": "ADP",
-        "Location": "Uganda",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Uganda",
-        "City/Village": "Kabubbu A Village, Kabubbu Parish, Nangabo Sub-County - Wakiso District",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.48,
-          0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Africa Development Promise (ADP) PA 003-17",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Solar Energy Kiosks in Five Villages of Uganda",
-        "Acronym": "ADP",
-        "Location": "Uganda",
-        "Years Active": "2015-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Uganda",
-        "City/Village": "Kiwale Village, Gayaza Parish, Nangabo Sub-County - Wakiso District",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.48,
-          0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Africa Development Promise (ADP) PA 016-1",
-        "Link": "https://smartvillage.ieee.org/project/africa-development-promise-adp/",
-        "Project Name": "Developing Technical and Vocational Skills for Rural Communities in Wakiso District",
-        "Acronym": "ADP",
-        "Location": "Uganda",
-        "Years Active": "2018-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Uganda",
-        "City/Village": "Kifumbiro and Kiwenda Villages, Gayaza Parish",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.48,
-          0.4
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Village Help for South Sudan (VHSS) PA NA",
-        "Link": "https://www.villagehelpforsouthsudan.org/thiou-village/",
-        "Project Name": "South Sudan Rural Electrification - Thiou Village",
-        "Acronym": "VHSS",
-        "Location": "South Sudan",
-        "Years Active": "2012-2016",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "South Sudan",
-        "City/Village": "Thiou",
-        "Coutry Count": "18",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.581993,
-          4.843925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Rural Development Organization Mdabulo (RDO)",
-        "Link": "http://rdo.or.tz/",
-        "Project Name": "Rural Electrification Solutions and Education for RDO Tanzania",
-        "Acronym": "RDO",
-        "Location": "Tanzania",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In progress",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Kilolo",
-        "Coutry Count": "15",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.864939,
-          -7.987617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "RDO Honey Hub",
-        "Link": "",
-        "Project Name": "",
-        "Acronym": "RDO",
-        "Location": "Tanzania",
-        "Years Active": "2022",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Tanzania",
-        "City/Village": "Mufindi & Kilolo districts, Iringa region",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": "The goal of the project is the establishment of honey farming using modern methods at Tanzanian NGO Rural Development Organization (RDO). It is part of a larger program for providing electricity to the communities, with honey generating income to help sustain the program. The completed project will provide a model character for other organizations to adopt to implement their honey farming projects."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35,
-          8
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Rotary Silicon Valley (RSV) Smart Village GA 052-21",
-        "Link": "NA",
-        "Project Name": "Uganda Telehealth Project",
-        "Acronym": "RSVSV",
-        "Location": "Uganda",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Uganda",
-        "City/Village": "Lugazi",
-        "Coutry Count": "1",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.9452,
-          0.3679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Rotary Silicon Valley (RSV) Smart Village GA 053-21",
-        "Link": "NA",
-        "Project Name": "Kenya Telehealth Project",
-        "Acronym": "RSVSV",
-        "Location": "Uganda",
-        "Years Active": "2021",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Kenya",
-        "City/Village": "Ukwala",
-        "Coutry Count": "12",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.18723,
-          0.1926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Grid Alternatives (GRA) MOU 2020",
-        "Link": "https://gridalternatives.org/what-we-do/tribal-program",
-        "Project Name": "Solar Demonstration Project - American Tribal Communities",
-        "Acronym": "GRA",
-        "Location": "USA",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9903,
-          39.73292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) GA 041-20",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "MDP Scholarships AY 2020-2021",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2020-2021",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "8",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) GA 2018",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "MDP Scholarships AY 2018-2019",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2018-2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) GA NA",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2019",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2019",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) GA NA",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "MDP Scholarships AY 2019-2020",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2019-2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) GA NA",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "Measurement & Evaluation Praxis Course Scholorships 2020",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2020",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Regis University (RGU) REQ 217722",
-        "Link": "https://www.regis.edu/",
-        "Project Name": "Masters of Development Practice - Program Creation",
-        "Acronym": "RGU",
-        "Location": "USA",
-        "Years Active": "2015-2017",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "North America",
-        "Country": "USA",
-        "City/Village": "Denver",
-        "Coutry Count": "9",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.029807,
-          39.789368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Future Generations University (FGU) PA 034-20",
-        "Link": "https://www.future.edu/",
-        "Project Name": "Bending Bamboo � ON Semiconductor Teacher Scholarships",
-        "Acronym": "FGU",
-        "Location": "Vietnam",
-        "Years Active": "2020-2021",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "Vietnam",
-        "City/Village": "Mekong Delta",
-        "Coutry Count": "7",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.594339,
-          10.063363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Nam Can Tho University (NCTU)",
-        "Link": "https://smartvillage.ieee.org/project/bending-bamboo-vietnam/",
-        "Project Name": "Bending Bamboo � Linguistic Development Education in Vietnam",
-        "Acronym": "NCTU",
-        "Location": "Vietnam",
-        "Years Active": "2017-Present",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Asia",
-        "Country": "Vietnam",
-        "City/Village": "C?n Th? City",
-        "Coutry Count": "7",
-        "Country Count Active Only": "6",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.722778,
-          10.005472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Lichi Community Solutions (LCS) PA NA",
-        "Link": "https://lightupzambia.org/",
-        "Project Name": "Sustainable Energy Kiosk for Rural Development - Filibaba",
-        "Acronym": "LCS",
-        "Location": "Zambia",
-        "Years Active": "2014-2016",
-        "Retired / Active / Pending (Future)": "R",
-        "Map Color": "B",
-        "Sponsor": "",
-        "Tranche Payments Started": "Completed",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Filibaba Zone in Ipafu, Chingola Zambia",
-        "Coutry Count": "11",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.324825,
-          -12.394098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Lichi Community Solutions (LCS) PA Pending",
-        "Link": "https://lightupzambia.org/",
-        "Project Name": "Zambia-Mayukwayukwa Reliable Solar Energy for Refugeee Camp",
-        "Acronym": "LCS",
-        "Location": "Zambia",
-        "Years Active": "2020-Present",
-        "Retired / Active / Pending (Future)": "P",
-        "Map Color": "Y",
-        "Sponsor": "",
-        "Tranche Payments Started": "Pending",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "",
-        "Coutry Count": "11",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.193679,
-          -14.553622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "`": "Kuumba Smart Vision (KSV)",
-        "Link": "",
-        "Project Name": "KSV Women's Gemstone Training",
-        "Acronym": "KSV",
-        "Location": "Zambia",
-        "Years Active": "2022-Present",
-        "Retired / Active / Pending (Future)": "A",
-        "Map Color": "G",
-        "Sponsor": "",
-        "Tranche Payments Started": "In Progress",
-        "Continent": "Africa",
-        "Country": "Zambia",
-        "City/Village": "Ndola, Copperbelt",
-        "Coutry Count": "",
-        "Country Count Active Only": "",
-        "Project Description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.654889,
-          -13.01375
-        ]
-      }
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "Project Description"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "This project is based on installing solar microgrids across unelectrified villages to support household and community services, as well as to power a water extraction and distribution system. The project will provide water services for 210 households, of which 23 households will receive electricity services, as well as 7 community centers, serving a total of 970 people directly. Services will be paid by their users based on consumption, and the systems will be operated and maintained by a partnership between Monte Adentro and a local solar PV cooperative. The main outcomes are to improve household living conditions, strengthen food security and agriculture, and create professional opportunities through productive uses of the new services."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "This is an off-grid electrification based on Solar mini-grid, sized at 11.5kWp with storage of 17.6kWh.\nProject will provide electricity, will support creation of small businesses and will provide training to youths\nand members of the community.\nProject will be deployed in Furana community, it will serve about 50 homes and 12 businesses in its first\nphase, covering a population of about 350 direct and indirect beneficiaries.\nMEED Renewables will be signing the Project Agreement with ISV and will be responsible for project\nexecution. Our team has engaged this community for over a year, understanding their needs, and how the\navailability of electricity will improve their productivity.\nOur team has deployed Solar-Hybrid systems ranging from 700Wp � 25kWp generating over 1MWh of\nelectricity."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The goal of the project is the establishment of honey farming using modern methods at Tanzanian NGO Rural Development Organization (RDO). It is part of a larger program for providing electricity to the communities, with honey generating income to help sustain the program. The completed project will provide model character to other organizations to adopt from to implement their own honey farming projects. The project will be implemented in the districts Mufindi and Kilolo. Since 2001 RDO has been actively engaging the communities in these areas through water supply, vocational training and a home-based orphans support program. In phase 1 of the project a group of local beekeepers (RDO a"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The Natoot Farm is the pillar of hope for the many households that engage daily in farming activities in Lodwar, Turkana Central, one of the poorest counties in Northern Kenya. This has improved food security, food affordability and food quality and socio-economic development. The Natoot Farm is situated in Lodwar in Turkana Central. Its GPS coordinates are 3.120891,35.650710. The farm is supported by Bright Hope International in partnership with the Full Gospel Churches of Kenya. Natoot farm supports over 70 farmers and is subdivided into 11 blocks each holding 7 to 8 farmers. As a model sustainable agriculture zone, the farm has attracted different cadres of personalities whose contributions have greatly improved the performance of the farm, including college and university students"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The project proposes incremental electrification and clean drinking water supply in the hamlets in the Tansa Wildlife Sanctuary in Thane district of Maharashtra. The first pilot project will be installed in Shisavli hamlet. As this hamlet exists inside the wildlife sanctuary where utility grid can�t be extended, the decentralized energy intervention is relevant and necessary for the people. Once the model is demonstrated it will be expanded to many additional isolated villages."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "Support the IEEE Smart Village partner Youths in Agriculture Initiative (YIAI) in execution of their proposed project �Green Education for Agri-entrepreneurship Development Initiative� (GEARED Initiative) and Mentor YIAI to operate a self-sustaining off-grid rural social enterprise. To implement the program the following projects were constructed: Two 5-kW solar micro-grids and two example farm plots to educate and train local youth, and Two 6-acre farm plots equipped with drip irrigation systems. The farm plots will be rented to youth that successfully complete the education portion."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The Off-Grid Homesteaders on Molokai pollute the air/environment using gasoline electric generators\nand propane for water heating and cooking. Replace dirty propane and gasoline generators with 7.5kW solar-PV arrays and 20kWh Li-ion batteries at\nNative Hawaiian Homestead sites living without access to grid connection. Each compound has 4 multigenerational\nfamilies and we will use energy sharing to provide power between each dwelling. Access to\nelectricity and energy savings will allow purchase and usage of farming equipment and other critical items for\nincome."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The use of technology in agricultural production will allow an effective system, using a solar pumping and \nautomatic irrigation system, humidity control, in the permaculture farm located in Popt�n. In the process of \ntechnology application, educational courses will be given in the community on agriculture and technology, \nand the production will be sold in the local market, adapting to the three pillars of ISV. The initial benefit will \nbe for 10 families, 50 agronomy students, and 1,000 children."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "Plastic industry is moving towards biodegradable, environmentally friendly plastic due to the harmful \neffects of synthetic plastics. Bioplastics being environment friendly, are gaining higher market share to \nreplace synthetic plastic. Currently, packaging remains the leading field for bioplastics with almost 65 percent \nof the total bioplastics market in 2018. The utilization of bagasse in bioplastic production instead of burning \nis the right solution. The project's focus is to implement the development of a low-carbon solution. This \nproject will result in providing work opportunities, investing social / health well-being of the people. The \nfuture goal is to replicate the same model in several other villages after maintaining a successful running \nproject is managed by the villagers"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "This is a pilot project to be deployed in mostly rural parts of Umuahia North and South, Abia State, Nigeria. This project would impact 1000 persons annually. The Eastern region of Nigeria is dominated by youths aged 15 to 50. Because of a lack of meaningful economic engagements, most of the youths become a menace to society. \nThis project aims to provide the youths with a platform to learn skills they can monetize. Training in photography, woodwork, welding, agriculture and livestock farming, solar electric design and installation, and basic computer training. The initiative will utilize solar power to generate electricity to be used in the training centers. Agriculture & Property Development Ltd, DBA skillGenix will be the leading organization."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "There are many solar energy products on the local market in Eastern Zambia but every shopkeeper likes to sell what is available in his or her shop and as much of it as possible. We experienced that there is no local knowledge of designing solar systems, not even in the shops that sell the equipment. As a result: customers, get very confusing and contradicting stories in the shops and often walk out without solar equipment, because they can�t afford what was offered to them. There is a valid business demand for well-trained local solar system designers and installers, who offer honest solutions using local supply. Jacana piloted this with success with the help of a PUM senior expert. Now Jacana is expanding training and \nguiding entrepreneurs in the solar sector."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "PEC aims to provide modern energy access to Makambako district, focusing on low-income households in five villages. Currently serving 1500 households, we plan to reach an additional 1000 due to economic growth and rising electricity demand. The project uses cluster-based isolated mini-grids with wind and solar power systems for reliable and sustainable energy supply. PEC will also upgrade analog meters to smart meters to improve efficiency, management, and electricity reliability. Our goal is to enhance education, health, water, sanitation, and environmental sustainability. By empowering individuals, creating economic opportunities, and fostering sustainable development, we aim to transform lives in the Makambako district."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "Solar home systems (SHS) and solar freezers under this project will be implemented using a blended business model. SHS will be sold to customers using a fixed energy rate model. Customers subscribe to a product from a product category, according to their energy needs, and pay a monthly subscription fee for 5 years. Afterward, we reclaim and recycle the system, and the customer can either resubscribe to a new product of the same category or upgrade to a higher category."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The solar PV system is estimated to produce 46,560 KWH annually which is greater than the usage of 21,500 KWH annually. Therefore, there will be 100 % savings. The resiliency hub will act as the first-ever solar resiliency hub in Petersburg and will serve as the launch pad to scale service to a population of about 30,000 people."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "This project aims to provide distributed solar power generation and carry out capacity building to address the energy needs of local herders innovatively. It includes energy usage, community education, and entrepreneurship. The installation of a microgrid in powerless areas saves 84.6% in investment compared to the construction of a traditional grid. The direct beneficiaries in phase 1 of the pilot project are eight families and 53 Tibetan herders. Then, the model can be spread to nearby regions, benefiting thousands of nomadic families. Maqu DaoErjia Yak Herders Cooperative is based in the local community, and was established in 2013, with a mission to increase the income of the community with a sustainable model, has rich experience in earning money by providing guide services."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "This project aims to provide low-cost solar heating to one million people five years. Dacheng Energy & associated collaborative units [ENTERPRISE] will train [EDUCATION] participating villagers to make, install, and maintain roof-top solar heating systems [ENERGY] for their houses. The 1st phase is to test the business model by recruiting 10 villagers from two rural areas near Changzhi, Shanxi Province, China. Key"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "AgriPV systems allow combining agricultural production with generation of electricity with PV panels in \nheight on the same plot of land. It increases land use efficiency while promoting synergy between both \nsystems. Vulnerable areas in Chile are experiencing drought and extreme weather events for more than 10 \nyears. Enable a PV plant in height that allows the cultivation of fruit trees or vegetables underneath, with \nshading that acts as a protective layer, which could result in benefits for the crop: control of radiation on fruit; \ndecrease of crop transpiration and humidity maintenance/water savings; control of extreme weather events; \nPV for tech irrigation system; electromobility, etc. \nThe community location is in R�o Hurtado, Coquimbo region with 357 members (small-scale farmers)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "In the Caribbean country of Haiti, only one in seven people have access to electricity. IEEE Smart Village partners with the Sirona Cares Foundation, which, in 2011, began deploying IEEE Smart Village community charging stations. The partner franchises local entrepreneurs in rural communities of Haiti, who then lease portable battery kits to homeowners for lighting and cell phone charging. The SunBlazer was found to be able to support lighting for up to 83 homes in a community, and the monthly fee to the homeowner is less than the cost of candles and kerosene (and/or fuel to run small generators), making electric home lighting easily affordable to people making $1-2 per day. In this way, With the franchise model, the only upfront investment required of the customer is a 2-month security deposit of $12.50 USD for the battery kit.\nIn June 2011 Sirona Cares initially deployed renewable-energy solutions in six villages and expanded to 15 villages in 2012 serving 1200 homes or 7200 people. After that, Sirona Cares expanded to serve another 2,200 homes reaching an estimated 20,000 people. At that time, 10 more homeowners joined the waiting list to receive portable battery kits for every home that was lit. Leveraging IEEE Smart Village�s initial seed funding and business model, Sirona Cares was able to attract additional funding of $1 million from international donors to expand its capacity by a factor of three.\n"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The purpose is to empower those who are powerless. The pilot project aims to improve health and education in Honduras by introducing off-grid solar-powered lighting, charging stations, and cooking fans."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "Solar Electrification of the Aboi Changle Village in the state of Nagaland in India. It will be a first of its kind project where the capacity development will be done at the local level to enable the maintenance of the infrastructure. Solar Electrification of the village will impact the lives of 44 households and 377 people who are residing in the remote village of Aboi Changle."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The project is situated in Lakhimpur Kheri U.P. on the India-Nepal border, close to the foothills of the Indian Himalayas. There is a rich diversity of population, home to unique ethnic communities that have lived inside and along the Tarai forest belt that runs on both sides of the Indian-Nepalese border. Substantial farming in these tribal villages is unable to provide meaningful employment, other alternatives of livelihood are needed. Access to electricity is challenging and gets worse in the forest areas where a large percentage of the population is completely off-grid \n\nThis social enterprise is focused on improving living standards, delivering quality education, creating entrepreneurs and job opportunities, and will further reach out to government and other social welfare programs. The profits from this endeavor will be reinvested into the program, and a larger involvement of the community will be pursued. This Project shall result in two pilot installations affecting a community of approx. 3,000 people or more, in the community of Nasir-Kishanpur and Pernia-Surma. \n"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "2.17403, 41.40338"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "ADP offers a bundle of smart farming solutions that include energy, capacity building, enterprise, and network building to give cooperatives a competitive advantage in the marketplace. The project is implemented in the Rilima Sector of Bugesera District in Rwanda, which will benefit approx. 180 households with improved water and cold storage facilities. Both improvements in the community will lead to improved health and increased income for community members"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The goal of the Project is to promote rural women's entrepreneurship in agricultural cooperatives while also addressing the interconnectivity of water, energy and agriculture. As part of this mission, Supplier seeks to provide access to clean energy and education through solar power, thereby improving the living standards of the rural populace in the Wakiso District."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "The goal of the project is the establishment of honey farming using modern methods at Tanzanian NGO Rural Development Organization (RDO). It is part of a larger program for providing electricity to the communities, with honey generating income to help sustain the program. The completed project will provide a model character for other organizations to adopt to implement their honey farming projects."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": ""
+      },
+      "geometry": null
     }
   ]
 }
