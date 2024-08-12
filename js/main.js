@@ -10,7 +10,7 @@ var map = new mapboxgl.Map({
     //style: 'mapbox://styles/earthadam/cjvy2aoum109m1ct7j4cce74d',
     //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
     style: 'mapbox://styles/earthadam/cjxo0sdri31o01clrrw3qesbq',	//Presentation
-    projection: 'globe', // Explicitly set the projection to Mercator
+    projection: 'mercator', // Explicitly set the projection to Mercator
     //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
     //style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
     center: [13.902049,3.489016],
@@ -20,7 +20,7 @@ var map = new mapboxgl.Map({
 var icon = "circle";
 
 map.on('load', function() {
-    map.setFog({}); 
+    //map.setFog({}); 
     var layers = ['Retired','Active', 'Future'];
     var colors = ['#39DFff','#00FF00', '#FFFF00'];
     for (i = 0; i < layers.length; i++) {
