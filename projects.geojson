@@ -1676,8 +1676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          70,
-          30
+          -70,
+          -30
         ]
       }
     },

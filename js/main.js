@@ -21,7 +21,7 @@ var icon = "circle";
 
 map.on('load', function() {
     //map.setFog({}); 
-    var layers = ['Retired','Active', 'Future'];
+    var layers = ['Completed','Active', 'Future'];
     var colors = ['#39DFff','#00FF00', '#FFFF00'];
     for (i = 0; i < layers.length; i++) {
         var layer = layers[i];
