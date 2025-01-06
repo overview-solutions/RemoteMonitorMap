@@ -5,19 +5,44 @@ function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
+const COLORS = {
+    completed: '#39DFff',
+    active: '#00FF00',
+    future: '#FFFF00',
+    strokeCompleted: '#00497A',
+    strokeActive: '#004400',
+    strokeFuture: '#444400'
+};
+
+const IMAGE_BASE_URL = 'https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/';
+
 var map = new mapboxgl.Map({
     container: 'map',
-    //style: 'mapbox://styles/earthadam/cjvy2aoum109m1ct7j4cce74d',
-    //style: 'mapbox://styles/earthadam/cjggo2pka002c2so00qaetnaz',	//Website
-    style: 'mapbox://styles/earthadam/cjxo0sdri31o01clrrw3qesbq',	//Presentation
-    projection: 'mercator', // Explicitly set the projection to Mercator
-    //style: 'mapbox://styles/earthadam/cjggwweef00002rpuoj1t93h3',	//Desert
-    //style: 'mapbox://styles/earthadam/cjs968jaf2e1j1fmp6hj0pwwn',
-    center: [13.902049,3.489016],
+    style: 'mapbox://styles/earthadam/cjxo0sdri31o01clrrw3qesbq',
+    projection: 'mercator', // Default to Mercator
+    center: [13.902049, 3.489016],
     zoom: 2
 });
 
 var icon = "circle";
+
+let isGlobeView = false;
+
+document.getElementById('toggleProjection').addEventListener('click', () => {
+    isGlobeView = !isGlobeView;
+    map.setProjection(isGlobeView ? 'globe' : 'mercator');
+
+    if (isGlobeView) {
+        map.setFog({
+            range: [0.5, 10],
+            color: 'rgba(0, 0, 0, 0.5)',
+            "horizon-blend": 0.3,
+            "star-intensity": 0.8
+        });
+    } else {
+        map.setFog(null);
+    }
+});
 
 map.on('load', function() {
     //map.setFog({}); 
@@ -95,70 +120,33 @@ map.on('load', function() {
         closeOnClick: false
     });
 
-    map.on('mouseover', 'sites', function(e) {
-        // Change the cursor style as a UI indicator.
+    function handleFeatureEvent(e) {
         map.getCanvas().style.cursor = 'pointer';
+        popup.setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(createPopupHTML(e.features[0]))
+            .addTo(map);
+    }
 
-        // Populate the popup and set its coordinates
-        // based on the feature found.
-        if(e.features[0].properties["Link"]!=""){
-            popup.setLngLat(e.features[0].geometry.coordinates)
-                .setHTML(
-                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
-                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
-                e.features[0].properties["Project Name"]+"<br>"+
-                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-                //.setHTML(e.features[0].properties.description)
-                .addTo(map);
-        }else{
-            popup.setLngLat(e.features[0].geometry.coordinates)
-                .setHTML(
-                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
-                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                e.features[0].properties["Project Name"]+"<br>"+
-                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-                //.setHTML(e.features[0].properties.description)
-                .addTo(map);
-        }
-        
-    });
-    map.on('click', 'sites', function(e) {
-        el.className = 'marker';
-        // Change the cursor style as a UI indicator.
-        map.getCanvas().style.cursor = 'pointer';
-
-        // Populate the popup and set its coordinates
-        // based on the feature found.
-        if(e.features[0].properties["Link"]!=""){
-            popup.setLngLat(e.features[0].geometry.coordinates)
-                .setHTML(
-                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
-                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                '<h3><a href="' + e.features[0].properties["Link"] + '">' + "Link to Project" + '</a></h3>'+
-                e.features[0].properties["Project Name"]+"<br>"+
-                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-                //.setHTML(e.features[0].properties.description)
-                .addTo(map);
-        }else{
-            popup.setLngLat(e.features[0].geometry.coordinates)
-                .setHTML(
-                "<img src=\"https://github.com/overview-solutions/RemoteMonitorMap/raw/master/Img/" + e.features[0].properties["Country"] + ".png\"style=\"width:100px;height:67px;\"/>" +
-                "<h2>"+ e.features[0].properties["Organization Contracted"]+"</h2>"+
-                e.features[0].properties["Project Name"]+"<br>"+
-                "<b>Country:</b> "+e.features[0].properties["Country"]+"<br>"+
-                "<b>Years Active: </b>"+e.features[0].properties["Years Active"])
-                //.setHTML(e.features[0].properties.description)
-                .addTo(map);
-        }
-    });
+    map.on('mouseover', 'sites', handleFeatureEvent);
+    map.on('click', 'sites', handleFeatureEvent);
 
     map.on('click', function() {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
     
+    map.resize();
 });
+
+function createPopupHTML(feature) {
+    const imgTag = `<img src="${IMAGE_BASE_URL}${feature.properties["Country"]}.png" style="width:100px;height:67px;"/>`;
+    const linkTag = feature.properties["Link"] ? `<h3><a href="${feature.properties["Link"]}">Link to Project</a></h3>` : '';
+    return `
+        ${imgTag}
+        <h2>${feature.properties["Organization Contracted"]}</h2>
+        ${linkTag}
+        ${feature.properties["Project Name"]}<br>
+        <b>Country:</b> ${feature.properties["Country"]}<br>
+        <b>Years Active:</b> ${feature.properties["Years Active"]}
+    `;
+}
