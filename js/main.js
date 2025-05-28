@@ -28,22 +28,6 @@ var icon = "circle";
 
 let isGlobeView = false;
 
-document.getElementById('toggleProjection').addEventListener('click', () => {
-    isGlobeView = !isGlobeView;
-    map.setProjection(isGlobeView ? 'globe' : 'mercator');
-
-    if (isGlobeView) {
-        map.setFog({
-            range: [0.5, 10],
-            color: 'rgba(0, 0, 0, 0.5)',
-            "horizon-blend": 0.3,
-            "star-intensity": 0.8
-        });
-    } else {
-        map.setFog(null);
-    }
-});
-
 map.on('load', function() {
     //map.setFog({}); 
     var layers = ['Completed','Active', 'Future'];
